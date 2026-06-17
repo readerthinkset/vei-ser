@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "Thank you, truly.",
+      "serbian": "Хвала, заиста.",
+      "transliteration": "Hvala, zaista.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T11:51:12.382184"
+    },
+    {
+      "english": "I'm so grateful, sincerely.",
+      "serbian": "Искрено сам захвалан/захвална.",
+      "transliteration": "Iskreno sam zahvalan/zahvalna.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T11:51:12.382192"
+    },
+    {
+      "english": "This means a lot, thank you.",
+      "serbian": "Ово пуно значи, хвала.",
+      "transliteration": "Ovo puno znači, hvala.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T11:51:12.382193"
+    },
+    {
+      "english": "Your kindness, appreciated.",
+      "serbian": "Ваша љубазност, цењена.",
+      "transliteration": "Vaša ljubaznost, cenjena.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T11:51:12.382195"
+    },
+    {
+      "english": "Deepest thanks, to you.",
+      "serbian": "Најдубље хвала, вама.",
+      "transliteration": "Najdublje hvala, vama.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-17T11:51:12.382196"
+    }
+  ],
+  "last_updated": "2026-06-17T11:51:12.382198"
+}
