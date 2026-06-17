@@ -69,7 +69,42 @@
       "transliteration": "Pronađi svoju vatru, i gori.",
       "category": "Strength",
       "generated_at": "2026-06-17T12:37:37.475928"
+    },
+    {
+      "english": "Where can I find, the nearest store?",
+      "serbian": "Где је, најближа продавница?",
+      "transliteration": "Gde je, najbilža prodavnica?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T15:23:14.466536"
+    },
+    {
+      "english": "How much is this, please?",
+      "serbian": "Колико је, ово, молим?",
+      "transliteration": "Koliko je, ovo, molim?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T15:23:14.466544"
+    },
+    {
+      "english": "I am looking for, a souvenir.",
+      "serbian": "Тражим, сувенир.",
+      "transliteration": "Tražim, suvenir.",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T15:23:14.466546"
+    },
+    {
+      "english": "Do you have, this in blue?",
+      "serbian": "Имате ли, ово, плаво?",
+      "transliteration": "Imate li, ovo, plavo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T15:23:14.466551"
+    },
+    {
+      "english": "Can I try, this on?",
+      "serbian": "Могу ли, да пробам, ово?",
+      "transliteration": "Mogu li, da probam, ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-17T15:23:14.466552"
     }
   ],
-  "last_updated": "2026-06-17T12:37:37.475930"
+  "last_updated": "2026-06-17T15:23:14.466556"
 }
