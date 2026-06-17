@@ -174,7 +174,42 @@
       "transliteration": "Ukrali su mi pasos, pomozite!",
       "category": "Emergency",
       "generated_at": "2026-06-17T19:17:44.274837"
+    },
+    {
+      "english": "Be kind, always.",
+      "serbian": "Budi ljubazan, uvek.",
+      "transliteration": "Boo-dee lyoo-bah-zahn, oo-vehk.",
+      "category": "Kindness",
+      "generated_at": "2026-06-17T22:03:54.309305"
+    },
+    {
+      "english": "Your smile, it helps.",
+      "serbian": "Tvoj osmeh, pomaže.",
+      "transliteration": "Tvoy oh-smeh, poh-mah-zheh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-17T22:03:54.309313"
+    },
+    {
+      "english": "Little good deeds, matter.",
+      "serbian": "Mala dobra dela, znače.",
+      "transliteration": "Mah-lah doh-brah deh-lah, znah-cheh.",
+      "category": "Kindness",
+      "generated_at": "2026-06-17T22:03:54.309314"
+    },
+    {
+      "english": "Share your joy, freely.",
+      "serbian": "Deli svoju radost, slobodno.",
+      "transliteration": "Deh-lee svoh-yoo rah-dohst, sloh-boh-dno.",
+      "category": "Kindness",
+      "generated_at": "2026-06-17T22:03:54.309316"
+    },
+    {
+      "english": "Listen with heart, truly.",
+      "serbian": "Slušaj srcem, iskreno.",
+      "transliteration": "Sloo-shy ser-tsem, ees-kreh-no.",
+      "category": "Kindness",
+      "generated_at": "2026-06-17T22:03:54.309317"
     }
   ],
-  "last_updated": "2026-06-17T19:17:44.274839"
+  "last_updated": "2026-06-17T22:03:54.309319"
 }
