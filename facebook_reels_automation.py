@@ -1,5 +1,5 @@
 """
-Facebook Reels Automation - Bilingual English/Slovak Content Generator
+Facebook Reels Automation - Bilingual English/Serbian Content Generator
 IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY SERBIAN branding
 Rounded container style from Habla Verse
 """
@@ -256,7 +256,7 @@ IMPORTANT: Serbian text must be clean - no slashes, no multiple versions."""
                 if "transliteration" not in p and "romaji" in p:
                     p["transliteration"] = p.pop("romaji")
                 if "serbian" not in p:
-                    alt_keys = ["slovak_text", "native", "translation", p.get("language", "")]
+                    alt_keys = ["serbian_text", "native", "translation", p.get("language", "")]
                     for k in alt_keys:
                         if k in p:
                             p["serbian"] = p.pop(k)

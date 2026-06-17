@@ -43,18 +43,18 @@ def get_latest_reel():
     mf = latest.parent / "metadata.json"
     if mf.exists():
         with open(mf, encoding="utf-8") as f: meta = json.load(f)
-    return {"video_path": str(latest), "metadata": meta, "category": meta.get("category_english", "Slovak Learning"), "phrases": meta.get("phrases", [])}
+    return {"video_path": str(latest), "metadata": meta, "category": meta.get("category_english", "Serbian Learning"), "phrases": meta.get("phrases", [])}
 
 
 def generate_caption(phrases, category, platform="facebook"):
-    base = [f"Learn Slovak with VELOCITY SERBIAN!", "", f"Category: {category}", "", f"Master Slovak one phrase at a time! Today's {category} lesson:", ""]
+    base = [f"Learn Serbian with VELOCITY SERBIAN!", "", f"Category: {category}", "", f"Master Serbian one phrase at a time! Today's {category} lesson:", ""]
     for i, p in enumerate(phrases[:5], 0):
         base.append(f"{i+1}. {p['english']}")
         base.append(f"   {p.get('serbian', '')}")
         base.append(f"   [{p.get('transliteration', '')}]")
         base.append("")
-    base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", f"Follow for daily Slovak lessons!", ""])
-    base.extend([f"#learnslovak", f"#slovaklessons", f"#slovakforbeginners", "#languagelearning", f"#slovakvocabulary", f"#velocityslovak", f"#dailyslovak", f"#slovak", "#learnlanguages"])
+    base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", f"Follow for daily Serbian lessons!", ""])
+    base.extend([f"#learnserbian", f"#serbianlessons", f"#serbianforbeginners", "#languagelearning", f"#serbianvocabulary", f"#velocityserbian", f"#dailyserbian", f"#serbian", "#learnlanguages"])
     return "\n".join(base)
 
 
