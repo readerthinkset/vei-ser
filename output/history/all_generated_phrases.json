@@ -104,7 +104,42 @@
       "transliteration": "Mogu li, da probam, ovo?",
       "category": "Shopping",
       "generated_at": "2026-06-17T15:23:14.466552"
+    },
+    {
+      "english": "I'm truly sorry, please forgive me.",
+      "serbian": "Zaista mi je žao, molim te oprosti mi.",
+      "transliteration": "Zai-sta mi je zao, mo-lim te opros-ti mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T17:13:38.768882"
+    },
+    {
+      "english": "Let's move past this, okay?",
+      "serbian": "Hajde da ovo ostavimo iza nas, važi?",
+      "transliteration": "Haj-de da o-vo os-tav-i-mo i-za nas, va-zi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T17:13:38.768889"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "serbian": "Nadam se da mi možeš oprostiti.",
+      "transliteration": "Na-dam se da mi mo-zhes opros-ti-ti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T17:13:38.768890"
+    },
+    {
+      "english": "It was my mistake, I apologize.",
+      "serbian": "Moja je greška, izvinjavam se.",
+      "transliteration": "Mo-ja je gresh-ka, iz-vi-nja-vam se.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T17:13:38.768892"
+    },
+    {
+      "english": "Can we start fresh now?",
+      "serbian": "Možemo li sada početi iznova?",
+      "transliteration": "Mo-zhe-mo li sa-da po-che-ti iz-no-va?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-17T17:13:38.768893"
     }
   ],
-  "last_updated": "2026-06-17T15:23:14.466556"
+  "last_updated": "2026-06-17T17:13:38.768894"
 }
