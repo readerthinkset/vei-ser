@@ -139,7 +139,42 @@
       "transliteration": "Mo-zhe-mo li sa-da po-che-ti iz-no-va?",
       "category": "Forgiveness",
       "generated_at": "2026-06-17T17:13:38.768893"
+    },
+    {
+      "english": "Help! I need a doctor, please.",
+      "serbian": "У помоћ! Треба ми лекар, молим.",
+      "transliteration": "U pomoc! Treba mi lekar, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-06-17T19:17:44.274824"
+    },
+    {
+      "english": "Is there a hospital, nearby?",
+      "serbian": "Има ли болница, у близини?",
+      "transliteration": "Ima li bolnica, u blizini?",
+      "category": "Emergency",
+      "generated_at": "2026-06-17T19:17:44.274832"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "serbian": "Изгубио/изгубила сам се, можете ли помоћи?",
+      "transliteration": "Izgubio/izgubila sam se, mozete li pomoci?",
+      "category": "Emergency",
+      "generated_at": "2026-06-17T19:17:44.274834"
+    },
+    {
+      "english": "Call the police, immediately!",
+      "serbian": "Зовите полицију, одмах!",
+      "transliteration": "Zovite policiju, odmah!",
+      "category": "Emergency",
+      "generated_at": "2026-06-17T19:17:44.274836"
+    },
+    {
+      "english": "My passport is stolen, help!",
+      "serbian": "Украли су ми пасош, помозите!",
+      "transliteration": "Ukrali su mi pasos, pomozite!",
+      "category": "Emergency",
+      "generated_at": "2026-06-17T19:17:44.274837"
     }
   ],
-  "last_updated": "2026-06-17T17:13:38.768894"
+  "last_updated": "2026-06-17T19:17:44.274839"
 }
