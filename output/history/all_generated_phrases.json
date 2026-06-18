@@ -314,7 +314,42 @@
       "transliteration": "Tvoja vizija, tvoja umetnost.",
       "category": "Creativity",
       "generated_at": "2026-06-18T17:30:29.824839"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "serbian": "Odlično ti ide, samo napred.",
+      "transliteration": "Odlichno ti ide, samo napred.",
+      "category": "Success",
+      "generated_at": "2026-06-18T19:17:10.293720"
+    },
+    {
+      "english": "Little by little, you'll get there.",
+      "serbian": "Malo po malo, stići ćeš.",
+      "transliteration": "Malo po malo, stichi chesh.",
+      "category": "Success",
+      "generated_at": "2026-06-18T19:17:10.293730"
+    },
+    {
+      "english": "Your progress is visible, bravo!",
+      "serbian": "Tvoj napredak je vidljiv, bravo!",
+      "transliteration": "Tvoj napredak je vidljiv, bravo!",
+      "category": "Success",
+      "generated_at": "2026-06-18T19:17:10.293732"
+    },
+    {
+      "english": "Practice makes perfect, keep it up.",
+      "serbian": "Vežba čini majstora, nastavi tako.",
+      "transliteration": "Vezhba chini majstora, nastavi tako.",
+      "category": "Success",
+      "generated_at": "2026-06-18T19:17:10.293733"
+    },
+    {
+      "english": "Every word counts, listen well.",
+      "serbian": "Svaka reč je bitna, slušaj pažljivo.",
+      "transliteration": "Svaka rech je bitna, slushaj pazhljivo.",
+      "category": "Success",
+      "generated_at": "2026-06-18T19:17:10.293735"
     }
   ],
-  "last_updated": "2026-06-18T17:30:29.824841"
+  "last_updated": "2026-06-18T19:17:10.293736"
 }
