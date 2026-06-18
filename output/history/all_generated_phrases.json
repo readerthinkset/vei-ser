@@ -209,7 +209,42 @@
       "transliteration": "Sloo-shy ser-tsem, ees-kreh-no.",
       "category": "Kindness",
       "generated_at": "2026-06-17T22:03:54.309317"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "serbian": "Moja majka, ona je dobra.",
+      "transliteration": "Moya majka, ona ye dobra.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T03:40:05.554911"
+    },
+    {
+      "english": "Your father, he works hard.",
+      "serbian": "Tvoj otac, on mnogo radi.",
+      "transliteration": "Tvoy otac, on mnogo radi.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T03:40:05.554917"
+    },
+    {
+      "english": "Our sister, she is young.",
+      "serbian": "Naša sestra, ona je mlada.",
+      "transliteration": "Nasha sestra, ona ye mlada.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T03:40:05.554919"
+    },
+    {
+      "english": "Their brother, he is tall.",
+      "serbian": "Njihov brat, on je visok.",
+      "transliteration": "Nihov brat, on ye visok.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T03:40:05.554920"
+    },
+    {
+      "english": "My grandmother, she bakes well.",
+      "serbian": "Moja baka, ona dobro peče.",
+      "transliteration": "Moya baka, ona dobro peche.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T03:40:05.554921"
     }
   ],
-  "last_updated": "2026-06-17T22:03:54.309319"
+  "last_updated": "2026-06-18T03:40:05.554923"
 }
