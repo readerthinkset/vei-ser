@@ -524,7 +524,42 @@
       "transliteration": "Jednostavna zadovoljstva, velika radost.",
       "category": "Happiness",
       "generated_at": "2026-06-19T18:28:08.186270"
+    },
+    {
+      "english": "Be brave, little one.",
+      "serbian": "Буди храбар, мали.",
+      "transliteration": "Budi hrabar, mali.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T21:12:57.382222"
+    },
+    {
+      "english": "Face your fears, openly.",
+      "serbian": "Суочи се са страховима, отворено.",
+      "transliteration": "Suoči se sa strahovima, otvoreno.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T21:12:57.382229"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "serbian": "Јачи си, него што мислиш.",
+      "transliteration": "Jači si, nego što misliš.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T21:12:57.382231"
+    },
+    {
+      "english": "Take a deep breath, then go.",
+      "serbian": "Удахни дубоко, па крени.",
+      "transliteration": "Udahniduboko, pa kreni.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T21:12:57.382233"
+    },
+    {
+      "english": "Action conquers, all doubt.",
+      "serbian": "Акција побеђује, све сумње.",
+      "transliteration": "Akcija pobeđuje, sve sumnje.",
+      "category": "Courage",
+      "generated_at": "2026-06-19T21:12:57.382234"
     }
   ],
-  "last_updated": "2026-06-19T18:28:08.186272"
+  "last_updated": "2026-06-19T21:12:57.382235"
 }
