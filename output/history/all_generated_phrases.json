@@ -454,7 +454,42 @@
       "transliteration": "Samo trenutak, molim.",
       "category": "Common Expressions",
       "generated_at": "2026-06-19T15:11:24.115838"
+    },
+    {
+      "english": "Hello, how are you?",
+      "serbian": "Здраво, како сте?",
+      "transliteration": "Zdravo, kako ste?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T16:36:02.544925"
+    },
+    {
+      "english": "Thank you, very much.",
+      "serbian": "Хвала, пуно.",
+      "transliteration": "Hvala, puno.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T16:36:02.544936"
+    },
+    {
+      "english": "Excuse me, please.",
+      "serbian": "Извините, молим.",
+      "transliteration": "Izvinite, molim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T16:36:02.544938"
+    },
+    {
+      "english": "I don't understand.",
+      "serbian": "Не разумем.",
+      "transliteration": "Ne razumem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T16:36:02.544940"
+    },
+    {
+      "english": "Yes, of course.",
+      "serbian": "Да, наравно.",
+      "transliteration": "Da, naravno.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T16:36:02.544941"
     }
   ],
-  "last_updated": "2026-06-19T15:11:24.115840"
+  "last_updated": "2026-06-19T16:36:02.544942"
 }
