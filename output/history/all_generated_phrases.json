@@ -419,7 +419,42 @@
       "transliteration": "Desiće se, na kraju.",
       "category": "Patience",
       "generated_at": "2026-06-19T04:03:16.387258"
+    },
+    {
+      "english": "No problem, at all.",
+      "serbian": "Није проблем, уопште.",
+      "transliteration": "Nije problem, uopšte.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T15:11:24.115825"
+    },
+    {
+      "english": "Take your time, please.",
+      "serbian": "Полако, молим Вас.",
+      "transliteration": "Polako, molim Vas.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T15:11:24.115834"
+    },
+    {
+      "english": "How can I help?",
+      "serbian": "Како могу помоћи?",
+      "transliteration": "Kako mogu pomoći?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T15:11:24.115836"
+    },
+    {
+      "english": "See you soon, okay?",
+      "serbian": "Видимо се ускоро, важи?",
+      "transliteration": "Vidimo se uskoro, važi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T15:11:24.115837"
+    },
+    {
+      "english": "Just a moment, please.",
+      "serbian": "Само тренутак, молим.",
+      "transliteration": "Samo trenutak, molim.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-19T15:11:24.115838"
     }
   ],
-  "last_updated": "2026-06-19T04:03:16.387260"
+  "last_updated": "2026-06-19T15:11:24.115840"
 }
