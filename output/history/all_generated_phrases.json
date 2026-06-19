@@ -489,7 +489,42 @@
       "transliteration": "Da, naravno.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-19T16:36:02.544941"
+    },
+    {
+      "english": "Joyful heart, happy life.",
+      "serbian": "Радосно срце, срећан живот.",
+      "transliteration": "Radosno srce, srećan život.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:28:08.186255"
+    },
+    {
+      "english": "Smile often, laugh loudly.",
+      "serbian": "Смеј се често, смеј се гласно.",
+      "transliteration": "Smej se često, smej se glasno.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:28:08.186263"
+    },
+    {
+      "english": "Find peace, feel good.",
+      "serbian": "Нађи мир, осети добро.",
+      "transliteration": "Nađi mir, oseti dobro.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:28:08.186264"
+    },
+    {
+      "english": "Good day, good mood.",
+      "serbian": "Добар дан, добро расположење.",
+      "transliteration": "Dobar dan, dobro raspoloženje.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:28:08.186269"
+    },
+    {
+      "english": "Simple pleasures, great joy.",
+      "serbian": "Једноставна задовољства, велика радост.",
+      "transliteration": "Jednostavna zadovoljstva, velika radost.",
+      "category": "Happiness",
+      "generated_at": "2026-06-19T18:28:08.186270"
     }
   ],
-  "last_updated": "2026-06-19T16:36:02.544942"
+  "last_updated": "2026-06-19T18:28:08.186272"
 }
