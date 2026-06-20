@@ -594,7 +594,42 @@
       "transliteration": "Cenim te, puno.",
       "category": "Friendship",
       "generated_at": "2026-06-20T03:26:21.948402"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "serbian": "Где је тоалет?",
+      "transliteration": "Gde je toalet?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:58:49.655413"
+    },
+    {
+      "english": "How much does this cost?",
+      "serbian": "Колико ово кошта?",
+      "transliteration": "Koliko ovo košta?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:58:49.655424"
+    },
+    {
+      "english": "I need help, please.",
+      "serbian": "Треба ми помоћ, молим.",
+      "transliteration": "Treba mi pomoć, molim.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:58:49.655426"
+    },
+    {
+      "english": "One ticket to Belgrade.",
+      "serbian": "Једну карту за Београд.",
+      "transliteration": "Jednu kartu za Beograd.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:58:49.655427"
+    },
+    {
+      "english": "Do you speak English?",
+      "serbian": "Говорите ли енглески?",
+      "transliteration": "Govorite li engleski?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:58:49.655428"
     }
   ],
-  "last_updated": "2026-06-20T03:26:21.948404"
+  "last_updated": "2026-06-20T13:58:49.655430"
 }
