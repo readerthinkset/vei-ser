@@ -664,7 +664,42 @@
       "transliteration": "Pola, možda manje.",
       "category": "Numbers",
       "generated_at": "2026-06-20T15:49:14.476500"
+    },
+    {
+      "english": "I ask for your understanding.",
+      "serbian": "Molim za tvoje razumevanje.",
+      "transliteration": "Mo-lim za tvo-je raz-u-me-va-nje.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-20T18:05:27.283037"
+    },
+    {
+      "english": "My apologies for the trouble.",
+      "serbian": "Moje izvinjenje zbog problema.",
+      "transliteration": "Mo-je iz-vi-nje-nje zbog pro-ble-ma.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-20T18:05:27.283044"
+    },
+    {
+      "english": "I wish to mend this.",
+      "serbian": "Želim ovo da popravim.",
+      "transliteration": "Zhe-lim o-vo da po-pra-vim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-20T18:05:27.283046"
+    },
+    {
+      "english": "Please accept my apology.",
+      "serbian": "Molim te prihvati moje izvinjenje.",
+      "transliteration": "Mo-lim te pri-hva-ti mo-je iz-vi-nje-nje.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-20T18:05:27.283047"
+    },
+    {
+      "english": "Let's not hold grudges.",
+      "serbian": "Nemojmo držati zamerke.",
+      "transliteration": "Ne-moy-mo dr-zha-ti za-mer-ke.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-20T18:05:27.283052"
     }
   ],
-  "last_updated": "2026-06-20T15:49:14.476502"
+  "last_updated": "2026-06-20T18:05:27.283053"
 }
