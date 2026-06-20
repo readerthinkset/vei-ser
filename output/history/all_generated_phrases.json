@@ -629,7 +629,42 @@
       "transliteration": "Govorite li engleski?",
       "category": "Travel",
       "generated_at": "2026-06-20T13:58:49.655428"
+    },
+    {
+      "english": "One, two, three, go!",
+      "serbian": "Jedan, dva, tri, kreni!",
+      "transliteration": "Yedan, dva, tri, kreni!",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T15:49:14.476484"
+    },
+    {
+      "english": "Five, then ten, slowly.",
+      "serbian": "Pet, pa deset, polako.",
+      "transliteration": "Pet, pa des-et, polako.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T15:49:14.476492"
+    },
+    {
+      "english": "How many, please?",
+      "serbian": "Koliko, molim?",
+      "transliteration": "Koliko, molim?",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T15:49:14.476493"
+    },
+    {
+      "english": "This costs twenty.",
+      "serbian": "Ovo košta dvadeset.",
+      "transliteration": "Ovo košta dvades-et.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T15:49:14.476495"
+    },
+    {
+      "english": "Half, maybe less.",
+      "serbian": "Pola, možda manje.",
+      "transliteration": "Pola, možda manje.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T15:49:14.476500"
     }
   ],
-  "last_updated": "2026-06-20T13:58:49.655430"
+  "last_updated": "2026-06-20T15:49:14.476502"
 }
