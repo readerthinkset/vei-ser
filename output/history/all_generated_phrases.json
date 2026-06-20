@@ -559,7 +559,42 @@
       "transliteration": "Akcija pobeđuje, sve sumnje.",
       "category": "Courage",
       "generated_at": "2026-06-19T21:12:57.382234"
+    },
+    {
+      "english": "You're my best friend, always.",
+      "serbian": "Ti si moj najbolji prijatelj, uvek.",
+      "transliteration": "Ti si moj najbolji prijatelj, uvek.",
+      "category": "Friendship",
+      "generated_at": "2026-06-20T03:26:21.948388"
+    },
+    {
+      "english": "We've been friends, for years.",
+      "serbian": "Prijatelji smo, mnogo godina.",
+      "transliteration": "Prijatelji smo, mnogo godina.",
+      "category": "Friendship",
+      "generated_at": "2026-06-20T03:26:21.948398"
+    },
+    {
+      "english": "Thanks for everything, truly.",
+      "serbian": "Hvala ti za sve, iskreno.",
+      "transliteration": "Hvala ti za sve, iskreno.",
+      "category": "Friendship",
+      "generated_at": "2026-06-20T03:26:21.948400"
+    },
+    {
+      "english": "Let's hang out, soon.",
+      "serbian": "Hajde da se vidimo, uskoro.",
+      "transliteration": "Hajde da se vidimo, uskoro.",
+      "category": "Friendship",
+      "generated_at": "2026-06-20T03:26:21.948401"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "serbian": "Cenim te, puno.",
+      "transliteration": "Cenim te, puno.",
+      "category": "Friendship",
+      "generated_at": "2026-06-20T03:26:21.948402"
     }
   ],
-  "last_updated": "2026-06-19T21:12:57.382235"
+  "last_updated": "2026-06-20T03:26:21.948404"
 }
