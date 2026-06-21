@@ -874,7 +874,42 @@
       "transliteration": "Guri napred, uvek napred.",
       "category": "Strength",
       "generated_at": "2026-06-21T18:14:52.603496"
+    },
+    {
+      "english": "My heart, beats for you.",
+      "serbian": "Moje srce, kuca za tebe.",
+      "transliteration": "Mo-ye sr-tse, ku-cha za te-be.",
+      "category": "Love",
+      "generated_at": "2026-06-21T21:17:59.997100"
+    },
+    {
+      "english": "You are, my everything.",
+      "serbian": "Ti si, sve moje.",
+      "transliteration": "Ti si, sve mo-ye.",
+      "category": "Love",
+      "generated_at": "2026-06-21T21:17:59.997110"
+    },
+    {
+      "english": "I love you, more each day.",
+      "serbian": "Volim te, sve više svaki dan.",
+      "transliteration": "Vo-lim te, sve vi-she sva-ki dan.",
+      "category": "Love",
+      "generated_at": "2026-06-21T21:17:59.997112"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "serbian": "Mislim na tebe, stalno.",
+      "transliteration": "Mi-slim na te-be, stal-no.",
+      "category": "Love",
+      "generated_at": "2026-06-21T21:17:59.997113"
+    },
+    {
+      "english": "You make me, so happy.",
+      "serbian": "Činiš me, veoma srećnim/srećnom.",
+      "transliteration": "Chi-nish me, ve-o-ma sre-chnim/sre-chnom.",
+      "category": "Love",
+      "generated_at": "2026-06-21T21:17:59.997115"
     }
   ],
-  "last_updated": "2026-06-21T18:14:52.603497"
+  "last_updated": "2026-06-21T21:17:59.997116"
 }
