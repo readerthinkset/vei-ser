@@ -804,7 +804,42 @@
       "transliteration": "Tvoy muzh, on ye strpljiv.",
       "category": "Family Terms",
       "generated_at": "2026-06-21T14:06:31.957454"
+    },
+    {
+      "english": "I have a serious injury.",
+      "serbian": "Имам озбиљну повреду.",
+      "transliteration": "Imam ozbiljnu povredu.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T16:01:42.110811"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "serbian": "Где је најближа апотека?",
+      "transliteration": "Gde je najbliza apoteka?",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T16:01:42.110820"
+    },
+    {
+      "english": "I need an ambulance, now!",
+      "serbian": "Хитно ми треба амбуланта!",
+      "transliteration": "Hitno mi treba ambulanta!",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T16:01:42.110822"
+    },
+    {
+      "english": "My child is missing, please!",
+      "serbian": "Моје дете је нестало, молим!",
+      "transliteration": "Moje dete je nestalo, molim!",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T16:01:42.110823"
+    },
+    {
+      "english": "Fire! We need to escape.",
+      "serbian": "Ватра! Морамо да бежимо.",
+      "transliteration": "Vatra! Moramo da bezimo.",
+      "category": "Emergency",
+      "generated_at": "2026-06-21T16:01:42.110824"
     }
   ],
-  "last_updated": "2026-06-21T14:06:31.957457"
+  "last_updated": "2026-06-21T16:01:42.110825"
 }
