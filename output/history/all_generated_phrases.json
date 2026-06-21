@@ -839,7 +839,42 @@
       "transliteration": "Vatra! Moramo da bezimo.",
       "category": "Emergency",
       "generated_at": "2026-06-21T16:01:42.110824"
+    },
+    {
+      "english": "Stand tall, face the world.",
+      "serbian": "Стани усправно, суочи се са светом.",
+      "transliteration": "Stani uspravno, suoči se sa svetom.",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:14:52.603483"
+    },
+    {
+      "english": "Every step, builds strength.",
+      "serbian": "Сваки корак, гради снагу.",
+      "transliteration": "Svaki korak, gradi snagu.",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:14:52.603492"
+    },
+    {
+      "english": "You are capable, truly.",
+      "serbian": "Ти си способан, заиста.",
+      "transliteration": "Ti si sposoban, zaista.",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:14:52.603493"
+    },
+    {
+      "english": "Resilience, is your gift.",
+      "serbian": "Отпорност, је твој дар.",
+      "transliteration": "Otpornost, je tvoj dar.",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:14:52.603494"
+    },
+    {
+      "english": "Push forward, always forward.",
+      "serbian": "Гури напред, увек напред.",
+      "transliteration": "Guri napred, uvek napred.",
+      "category": "Strength",
+      "generated_at": "2026-06-21T18:14:52.603496"
     }
   ],
-  "last_updated": "2026-06-21T16:01:42.110825"
+  "last_updated": "2026-06-21T18:14:52.603497"
 }
