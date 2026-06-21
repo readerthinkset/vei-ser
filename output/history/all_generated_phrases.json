@@ -769,7 +769,42 @@
       "transliteration": "Veruj srcu, ono zna.",
       "category": "Positive Life",
       "generated_at": "2026-06-21T03:56:29.040772"
+    },
+    {
+      "english": "Your grandfather, he tells stories.",
+      "serbian": "Tvoj deda, on priča priče.",
+      "transliteration": "Tvoy deda, on pricha price.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-21T14:06:31.957437"
+    },
+    {
+      "english": "Our aunt, she likes to travel.",
+      "serbian": "Naša tetka, ona voli putovanja.",
+      "transliteration": "Nasha tetka, ona voli putovanja.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-21T14:06:31.957447"
+    },
+    {
+      "english": "Their uncle, he is funny.",
+      "serbian": "Njihov stric, on je smešan.",
+      "transliteration": "Nihov stric, on ye smeshan.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-21T14:06:31.957451"
+    },
+    {
+      "english": "My cousin, she is smart.",
+      "serbian": "Moj brat od tetke, ona je pametna.",
+      "transliteration": "Moy brat od tetke, ona ye pametna.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-21T14:06:31.957453"
+    },
+    {
+      "english": "Your husband, he is patient.",
+      "serbian": "Tvoj muž, on je strpljiv.",
+      "transliteration": "Tvoy muzh, on ye strpljiv.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-21T14:06:31.957454"
     }
   ],
-  "last_updated": "2026-06-21T03:56:29.040774"
+  "last_updated": "2026-06-21T14:06:31.957457"
 }
