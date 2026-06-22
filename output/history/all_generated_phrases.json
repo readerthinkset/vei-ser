@@ -1014,7 +1014,42 @@
       "transliteration": "Trazi istinu, nadyi jasnochu.",
       "category": "Wisdom",
       "generated_at": "2026-06-22T18:16:11.024159"
+    },
+    {
+      "english": "It's my pleasure.",
+      "serbian": "Задовољство је моје.",
+      "transliteration": "Zadovoljstvo je moje.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:00:14.678948"
+    },
+    {
+      "english": "I understand, completely.",
+      "serbian": "Разумем, потпуно.",
+      "transliteration": "Razumem, potpuno.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:00:14.678957"
+    },
+    {
+      "english": "Don't worry, about it.",
+      "serbian": "Не брини, око тога.",
+      "transliteration": "Ne brini, oko toga.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:00:14.678959"
+    },
+    {
+      "english": "Welcome, everyone.",
+      "serbian": "Добродошли, сви.",
+      "transliteration": "Dobrodošli, svi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:00:14.678960"
+    },
+    {
+      "english": "That's great, really.",
+      "serbian": "То је сјајно, заиста.",
+      "transliteration": "To je sjajno, zaista.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-22T20:00:14.678961"
     }
   ],
-  "last_updated": "2026-06-22T18:16:11.024160"
+  "last_updated": "2026-06-22T20:00:14.678963"
 }
