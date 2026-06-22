@@ -944,7 +944,42 @@
       "transliteration": "Go-vo-ri po-la-ko, yas-no.",
       "category": "Confidence",
       "generated_at": "2026-06-22T03:58:27.230151"
+    },
+    {
+      "english": "Grateful for everything, really.",
+      "serbian": "Захвалан/захвална за све, стварно.",
+      "transliteration": "Zahvalan/zahvalna za sve, stvarno.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-22T16:54:07.833144"
+    },
+    {
+      "english": "My thanks, go with you.",
+      "serbian": "Моје хвале, иду с вама.",
+      "transliteration": "Moje hvale, idu s vama.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-22T16:54:07.833152"
+    },
+    {
+      "english": "Thank you, from my heart.",
+      "serbian": "Хвала, од срца.",
+      "transliteration": "Hvala, od srca.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-22T16:54:07.833154"
+    },
+    {
+      "english": "Forever grateful, I am.",
+      "serbian": "Вечно захвалан/захвална, сам.",
+      "transliteration": "Večno zahvalan/zahvalna, sam.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-22T16:54:07.833155"
+    },
+    {
+      "english": "Much appreciated, thank you.",
+      "serbian": "Много цењено, хвала.",
+      "transliteration": "Mnogo cenjeno, hvala.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-22T16:54:07.833156"
     }
   ],
-  "last_updated": "2026-06-22T03:58:27.230152"
+  "last_updated": "2026-06-22T16:54:07.833158"
 }
