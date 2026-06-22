@@ -909,7 +909,42 @@
       "transliteration": "Chi-nish me, ve-o-ma sre-chnim/sre-chnom.",
       "category": "Love",
       "generated_at": "2026-06-21T21:17:59.997115"
+    },
+    {
+      "english": "You can do this, breathe deep.",
+      "serbian": "Možeš ovo, duboko udahni.",
+      "transliteration": "Mo-zhesh o-vo, du-bo-ko u-dah-ni.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T03:58:27.230139"
+    },
+    {
+      "english": "One word at a time.",
+      "serbian": "Jedna reč, po jedna.",
+      "transliteration": "Yed-na rech, po yed-na.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T03:58:27.230146"
+    },
+    {
+      "english": "Don't worry, just try.",
+      "serbian": "Ne brini, samo pokušaj.",
+      "transliteration": "Ne bri-ni, sa-mo po-ku-shaj.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T03:58:27.230148"
+    },
+    {
+      "english": "Every mistake, is learning.",
+      "serbian": "Svaka greška, je učenje.",
+      "transliteration": "Sva-ka gresh-ka, ye oo-chen-ye.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T03:58:27.230150"
+    },
+    {
+      "english": "Speak slowly, clearly.",
+      "serbian": "Govori polako, jasno.",
+      "transliteration": "Go-vo-ri po-la-ko, yas-no.",
+      "category": "Confidence",
+      "generated_at": "2026-06-22T03:58:27.230151"
     }
   ],
-  "last_updated": "2026-06-21T21:17:59.997116"
+  "last_updated": "2026-06-22T03:58:27.230152"
 }
