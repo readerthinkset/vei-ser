@@ -1084,7 +1084,42 @@
       "transliteration": "Budi strpljiv, sa sobom.",
       "category": "Growth",
       "generated_at": "2026-06-22T22:06:18.345099"
+    },
+    {
+      "english": "Now, or never.",
+      "serbian": "Сада, или никад.",
+      "transliteration": "Sada, ili nikad.",
+      "category": "Time",
+      "generated_at": "2026-06-23T02:56:45.870988"
+    },
+    {
+      "english": "Later, maybe. Soon, definitely.",
+      "serbian": "Касније, можда. Ускоро, сигурно.",
+      "transliteration": "Kasnije, možda. Uskoro, sigurno.",
+      "category": "Time",
+      "generated_at": "2026-06-23T02:56:45.870997"
+    },
+    {
+      "english": "Every moment, counts.",
+      "serbian": "Сваки тренутак, је важан.",
+      "transliteration": "Svaki trenutak, je važan.",
+      "category": "Time",
+      "generated_at": "2026-06-23T02:56:45.870999"
+    },
+    {
+      "english": "Time flies, when happy.",
+      "serbian": "Време лети, кад је лепо.",
+      "transliteration": "Vreme leti, kad je lepo.",
+      "category": "Time",
+      "generated_at": "2026-06-23T02:56:45.871000"
+    },
+    {
+      "english": "Don't waste, precious time.",
+      "serbian": "Не троши, драго време.",
+      "transliteration": "Ne troši, drago vreme.",
+      "category": "Time",
+      "generated_at": "2026-06-23T02:56:45.871001"
     }
   ],
-  "last_updated": "2026-06-22T22:06:18.345101"
+  "last_updated": "2026-06-23T02:56:45.871003"
 }
