@@ -1329,7 +1329,42 @@
       "transliteration": "Putuj Srbijom, kao meštanin.",
       "category": "Purpose",
       "generated_at": "2026-06-24T16:28:04.303141"
+    },
+    {
+      "english": "We understand each other, well.",
+      "serbian": "Razumemo se, dobro.",
+      "transliteration": "Razumemo se, dobro.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T18:27:36.973309"
+    },
+    {
+      "english": "Always there, for me.",
+      "serbian": "Uvek tu, za mene.",
+      "transliteration": "Uvek tu, za mene.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T18:27:36.973319"
+    },
+    {
+      "english": "You make me laugh, a lot.",
+      "serbian": "Nasmejavaš me, mnogo.",
+      "transliteration": "Nasmejavaš me, mnogo.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T18:27:36.973321"
+    },
+    {
+      "english": "Glad you're here, friend.",
+      "serbian": "Drago mi je, što si tu, prijatelju.",
+      "transliteration": "Drago mi je, što si tu, prijatelju.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T18:27:36.973322"
+    },
+    {
+      "english": "Our friendship, is special.",
+      "serbian": "Naše prijateljstvo, je posebno.",
+      "transliteration": "Naše prijateljstvo, je posebno.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T18:27:36.973323"
     }
   ],
-  "last_updated": "2026-06-24T16:28:04.303143"
+  "last_updated": "2026-06-24T18:27:36.973325"
 }
