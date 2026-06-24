@@ -1259,7 +1259,42 @@
       "transliteration": "Širi dobrotu, oseti radost.",
       "category": "Happiness",
       "generated_at": "2026-06-24T02:57:30.161505"
+    },
+    {
+      "english": "Where is the, fitting room?",
+      "serbian": "Где је, свлачионица?",
+      "transliteration": "Gde je, svlačionica?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T14:26:27.136681"
+    },
+    {
+      "english": "I need, a bag, please.",
+      "serbian": "Треба ми, торба, молим.",
+      "transliteration": "Treba mi, torba, molim.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T14:26:27.136690"
+    },
+    {
+      "english": "Do you accept, credit cards?",
+      "serbian": "Примате ли, кредитне картице?",
+      "transliteration": "Primate li, kreditne kartice?",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T14:26:27.136691"
+    },
+    {
+      "english": "I will take, this one.",
+      "serbian": "Узећу, ово.",
+      "transliteration": "Uzeću, ovo.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T14:26:27.136692"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "serbian": "Хвала, на помоћи.",
+      "transliteration": "Hvala, na pomoći.",
+      "category": "Shopping",
+      "generated_at": "2026-06-24T14:26:27.136694"
     }
   ],
-  "last_updated": "2026-06-24T02:57:30.161507"
+  "last_updated": "2026-06-24T14:26:27.136695"
 }
