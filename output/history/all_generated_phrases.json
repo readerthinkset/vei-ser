@@ -1294,7 +1294,42 @@
       "transliteration": "Hvala, na pomoći.",
       "category": "Shopping",
       "generated_at": "2026-06-24T14:26:27.136694"
+    },
+    {
+      "english": "Learn Serbian, for fun.",
+      "serbian": "Uči srpski, radi zabave.",
+      "transliteration": "Uchi srpski, radi zabave.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T16:28:04.303127"
+    },
+    {
+      "english": "Speak Serbian, with confidence.",
+      "serbian": "Govori srpski, sa samopouzdanjem.",
+      "transliteration": "Govori srpski, sa samopouzdanjem.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T16:28:04.303136"
+    },
+    {
+      "english": "Understand Serbian, quickly.",
+      "serbian": "Razumi srpski, brzo.",
+      "transliteration": "Razumi srpski, brzo.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T16:28:04.303138"
+    },
+    {
+      "english": "Connect with Serbs, easily.",
+      "serbian": "Poveži se sa Srbima, lako.",
+      "transliteration": "Poveži se sa Srbima, lako.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T16:28:04.303140"
+    },
+    {
+      "english": "Travel Serbia, like a local.",
+      "serbian": "Putuj Srbijom, kao meštanin.",
+      "transliteration": "Putuj Srbijom, kao meštanin.",
+      "category": "Purpose",
+      "generated_at": "2026-06-24T16:28:04.303141"
     }
   ],
-  "last_updated": "2026-06-24T14:26:27.136695"
+  "last_updated": "2026-06-24T16:28:04.303143"
 }
