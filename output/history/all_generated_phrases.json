@@ -1224,7 +1224,42 @@
       "transliteration": "Samo diši, i čekaj.",
       "category": "Patience",
       "generated_at": "2026-06-23T21:44:44.042224"
+    },
+    {
+      "english": "Be present, be happy.",
+      "serbian": "Буди присутан, буди срећан.",
+      "transliteration": "Budi prisutan, budi srećan.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T02:57:30.161492"
+    },
+    {
+      "english": "Love what you do.",
+      "serbian": "Воли то што радиш.",
+      "transliteration": "Voli to što radiš.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T02:57:30.161501"
+    },
+    {
+      "english": "Every moment counts.",
+      "serbian": "Сваки тренутак се рачуна.",
+      "transliteration": "Svaki trenutak se računa.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T02:57:30.161503"
+    },
+    {
+      "english": "Gratitude brings happiness.",
+      "serbian": "Захвалност доноси срећу.",
+      "transliteration": "Zahvalnost donosi sreću.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T02:57:30.161504"
+    },
+    {
+      "english": "Spread kindness, feel joy.",
+      "serbian": "Шири доброту, осети радост.",
+      "transliteration": "Širi dobrotu, oseti radost.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T02:57:30.161505"
     }
   ],
-  "last_updated": "2026-06-23T21:44:44.042226"
+  "last_updated": "2026-06-24T02:57:30.161507"
 }
