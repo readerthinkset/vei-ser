@@ -1504,7 +1504,42 @@
       "transliteration": "Oslobađam prošlost, sa tobom.",
       "category": "Forgiveness",
       "generated_at": "2026-06-27T15:21:28.555252"
+    },
+    {
+      "english": "Start your day, with coffee.",
+      "serbian": "Počni dan, sa kafom.",
+      "transliteration": "Poch-nee dahn, sah kah-fom.",
+      "category": "Work",
+      "generated_at": "2026-06-27T17:55:24.806720"
+    },
+    {
+      "english": "Let's get to work, team.",
+      "serbian": "Idemo na posao, tim.",
+      "transliteration": "Ee-deh-moh nah poh-sah-loh, teem.",
+      "category": "Work",
+      "generated_at": "2026-06-27T17:55:24.806729"
+    },
+    {
+      "english": "This task, needs attention.",
+      "serbian": "Ovaj zadatak, traži pažnju.",
+      "transliteration": "Oh-vai zah-dah-tahk, trah-zhee pahzh-nyoo.",
+      "category": "Work",
+      "generated_at": "2026-06-27T17:55:24.806731"
+    },
+    {
+      "english": "Can you help me, please?",
+      "serbian": "Možeš li mi pomoći, molim?",
+      "transliteration": "Moh-zhesh lee mee poh-moh-chee, moh-leem?",
+      "category": "Work",
+      "generated_at": "2026-06-27T17:55:24.806732"
+    },
+    {
+      "english": "I have a question, for you.",
+      "serbian": "Imam pitanje, za tebe.",
+      "transliteration": "Ee-mahm pee-tah-nyeh, zah teh-beh.",
+      "category": "Work",
+      "generated_at": "2026-06-27T17:55:24.806733"
     }
   ],
-  "last_updated": "2026-06-27T15:21:28.555257"
+  "last_updated": "2026-06-27T17:55:24.806735"
 }
