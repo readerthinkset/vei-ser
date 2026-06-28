@@ -1609,7 +1609,42 @@
       "transliteration": "Yutros, ye magla.",
       "category": "Weather",
       "generated_at": "2026-06-28T03:33:51.477470"
+    },
+    {
+      "english": "Offer a helping hand, gently.",
+      "serbian": "Pruži ruku pomoći, nežno.",
+      "transliteration": "Pruzhi ruku pomoci, nezno.",
+      "category": "Kindness",
+      "generated_at": "2026-06-28T13:42:30.885483"
+    },
+    {
+      "english": "A kind word, goes far.",
+      "serbian": "Ljubazna reč, daleko stiže.",
+      "transliteration": "Ljubazna rech, daleko stizhe.",
+      "category": "Kindness",
+      "generated_at": "2026-06-28T13:42:30.885491"
+    },
+    {
+      "english": "See the good, in others.",
+      "serbian": "Vidi dobro, u drugima.",
+      "transliteration": "Vidi dobro, u drugima.",
+      "category": "Kindness",
+      "generated_at": "2026-06-28T13:42:30.885493"
+    },
+    {
+      "english": "Spread some light, today.",
+      "serbian": "Raširi malo svetla, danas.",
+      "transliteration": "Rashiri malo svetla, danas.",
+      "category": "Kindness",
+      "generated_at": "2026-06-28T13:42:30.885495"
+    },
+    {
+      "english": "Empathy, opens hearts.",
+      "serbian": "Empatija, otvara srca.",
+      "transliteration": "Empatija, otvara srca.",
+      "category": "Kindness",
+      "generated_at": "2026-06-28T13:42:30.885496"
     }
   ],
-  "last_updated": "2026-06-28T03:33:51.477472"
+  "last_updated": "2026-06-28T13:42:30.885497"
 }
