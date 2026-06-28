@@ -1574,7 +1574,42 @@
       "transliteration": "Probij granice, sada.",
       "category": "Courage",
       "generated_at": "2026-06-27T21:08:24.497646"
+    },
+    {
+      "english": "The sky, is clear today.",
+      "serbian": "Nebo, je vedro danas.",
+      "transliteration": "Nebo, ye vedro danas.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:51.477458"
+    },
+    {
+      "english": "It's raining, quite heavily.",
+      "serbian": "Pada kiša, prilično jako.",
+      "transliteration": "Pada kiša, prilično yako.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:51.477466"
+    },
+    {
+      "english": "A gentle breeze, is blowing.",
+      "serbian": "Duva blagi povetarac.",
+      "transliteration": "Duva blagi povetarac.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:51.477468"
+    },
+    {
+      "english": "The sun, is shining brightly.",
+      "serbian": "Sunce, sija jako.",
+      "transliteration": "Sunce, siya yako.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:51.477469"
+    },
+    {
+      "english": "There's fog, in the morning.",
+      "serbian": "Jutros, je magla.",
+      "transliteration": "Yutros, ye magla.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T03:33:51.477470"
     }
   ],
-  "last_updated": "2026-06-27T21:08:24.497648"
+  "last_updated": "2026-06-28T03:33:51.477472"
 }
