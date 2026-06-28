@@ -1679,7 +1679,42 @@
       "transliteration": "Rasti bogatstvo, polako.",
       "category": "Finance",
       "generated_at": "2026-06-28T15:22:38.578146"
+    },
+    {
+      "english": "Sun shines, birds sing.",
+      "serbian": "Sunce sija, ptice pevaju.",
+      "transliteration": "Soontseh see-yah, pteet-seh peh-vah-yoo.",
+      "category": "Nature",
+      "generated_at": "2026-06-28T17:59:21.558314"
+    },
+    {
+      "english": "Green forest, cool shade.",
+      "serbian": "Zelena šuma, hladovina.",
+      "transliteration": "Zeh-leh-nah shoo-mah, khlah-doh-vee-nah.",
+      "category": "Nature",
+      "generated_at": "2026-06-28T17:59:21.558323"
+    },
+    {
+      "english": "River flows, water gleams.",
+      "serbian": "Reka teče, voda blista.",
+      "transliteration": "Reh-kah teh-cheh, voh-dah blees-tah.",
+      "category": "Nature",
+      "generated_at": "2026-06-28T17:59:21.558324"
+    },
+    {
+      "english": "Mountain high, clouds drift.",
+      "serbian": "Visoka planina, oblaci plove.",
+      "transliteration": "Vee-soh-kah plah-nee-nah, oh-blah-tsee ploh-veh.",
+      "category": "Nature",
+      "generated_at": "2026-06-28T17:59:21.558325"
+    },
+    {
+      "english": "Wind whispers, leaves dance.",
+      "serbian": "Vetar šušti, lišće igra.",
+      "transliteration": "Veh-tahr shoosh-tee, leesh-cheh ee-grah.",
+      "category": "Nature",
+      "generated_at": "2026-06-28T17:59:21.558327"
     }
   ],
-  "last_updated": "2026-06-28T15:22:38.578148"
+  "last_updated": "2026-06-28T17:59:21.558328"
 }
