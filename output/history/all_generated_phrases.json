@@ -1854,7 +1854,42 @@
       "transliteration": "Hoo-chee veseloo melodeeyoo, tseh-oh dan.",
       "category": "Music",
       "generated_at": "2026-06-29T16:56:59.487499"
+    },
+    {
+      "english": "The cat, sleeps on the mat.",
+      "serbian": "Мачка, спава на простирци.",
+      "transliteration": "Machka, spava na prostirci.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T18:58:55.804438"
+    },
+    {
+      "english": "A dog, barks at the door.",
+      "serbian": "Пас, лаје на врата.",
+      "transliteration": "Pas, laje na vrata.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T18:58:55.804446"
+    },
+    {
+      "english": "Birds, sing in the trees.",
+      "serbian": "Птице, певају у дрвећу.",
+      "transliteration": "Ptice, pevaju u drveću.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T18:58:55.804447"
+    },
+    {
+      "english": "Fish, swim in the river.",
+      "serbian": "Рибе, пливају у реци.",
+      "transliteration": "Ribe, plivaju u reci.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T18:58:55.804449"
+    },
+    {
+      "english": "The horse, runs through the field.",
+      "serbian": "Коњ, трчи кроз поље.",
+      "transliteration": "Konj, trchi kroz polje.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T18:58:55.804450"
     }
   ],
-  "last_updated": "2026-06-29T16:56:59.487502"
+  "last_updated": "2026-06-29T18:58:55.804452"
 }
