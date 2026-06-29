@@ -1889,7 +1889,42 @@
       "transliteration": "Konj, trchi kroz polje.",
       "category": "Animals",
       "generated_at": "2026-06-29T18:58:55.804450"
+    },
+    {
+      "english": "Breathe deep, feel calm.",
+      "serbian": "Дубоко диши, осети мир.",
+      "transliteration": "Duboko diši, oseti mir.",
+      "category": "Health",
+      "generated_at": "2026-06-29T21:38:11.064785"
+    },
+    {
+      "english": "Hydrate well, stay strong.",
+      "serbian": "Пиј пуно воде, остани јак.",
+      "transliteration": "Pij puno vode, ostani jak.",
+      "category": "Health",
+      "generated_at": "2026-06-29T21:38:11.064793"
+    },
+    {
+      "english": "Eat smart, live long.",
+      "serbian": "Једи паметно, живи дуго.",
+      "transliteration": "Jedi pametno, živi dugo.",
+      "category": "Health",
+      "generated_at": "2026-06-29T21:38:11.064795"
+    },
+    {
+      "english": "Move your body, feel good.",
+      "serbian": "Помери тело, осети се добро.",
+      "transliteration": "Pomeri telo, oseti se dobro.",
+      "category": "Health",
+      "generated_at": "2026-06-29T21:38:11.064796"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "serbian": "Спавај мирно, буди се одморан.",
+      "transliteration": "Spavaj mirno, budi se odmoran.",
+      "category": "Health",
+      "generated_at": "2026-06-29T21:38:11.064797"
     }
   ],
-  "last_updated": "2026-06-29T18:58:55.804452"
+  "last_updated": "2026-06-29T21:38:11.064799"
 }
