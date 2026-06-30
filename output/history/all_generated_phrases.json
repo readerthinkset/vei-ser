@@ -1994,7 +1994,42 @@
       "transliteration": "Još šest, do cilja.",
       "category": "Numbers",
       "generated_at": "2026-06-30T14:15:28.191246"
+    },
+    {
+      "english": "A little bit, later.",
+      "serbian": "Malo, kasnije.",
+      "transliteration": "Malo, kasnije.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-30T16:26:31.209243"
+    },
+    {
+      "english": "Here you go, then.",
+      "serbian": "Evo ti, onda.",
+      "transliteration": "Evo ti, onda.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-30T16:26:31.209252"
+    },
+    {
+      "english": "Just like that, yes.",
+      "serbian": "Tako, da.",
+      "transliteration": "Tako, da.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-30T16:26:31.209254"
+    },
+    {
+      "english": "Maybe, sometime soon.",
+      "serbian": "Možda, uskoro.",
+      "transliteration": "Možda, uskoro.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-30T16:26:31.209255"
+    },
+    {
+      "english": "Right this way, please.",
+      "serbian": "Ovuda, molim.",
+      "transliteration": "Ovuda, molim.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-30T16:26:31.209256"
     }
   ],
-  "last_updated": "2026-06-30T14:15:28.191247"
+  "last_updated": "2026-06-30T16:26:31.209258"
 }
