@@ -1924,7 +1924,42 @@
       "transliteration": "Spavaj mirno, budi se odmoran.",
       "category": "Health",
       "generated_at": "2026-06-29T21:38:11.064797"
+    },
+    {
+      "english": "Sunrise paints the sky, a new day begins.",
+      "serbian": "Sunce boji nebo, nov dan počinje.",
+      "transliteration": "Sun-tse bo-yi ne-bo, nov dan po-chi-nye.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-30T03:25:33.939255"
+    },
+    {
+      "english": "Stretch, yawn, and greet the morning.",
+      "serbian": "Protegni se, zevaj, i pozdravi jutro.",
+      "transliteration": "Pro-teg-ni se, ze-vay, i poz-dra-vi yu-tro.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-30T03:25:33.939265"
+    },
+    {
+      "english": "First coffee, then conquer the world.",
+      "serbian": "Prva kafa, pa osvoji svet.",
+      "transliteration": "Pr-va ka-fa, pa os-vo-yi svet.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-30T03:25:33.939266"
+    },
+    {
+      "english": "Shower away, sleepiness is gone.",
+      "serbian": "Istuširaj se, pospanost je nestala.",
+      "transliteration": "Is-tu-shi-ray se, pos-pa-nost ye nes-ta-la.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-30T03:25:33.939268"
+    },
+    {
+      "english": "Brush teeth, smile bright.",
+      "serbian": "Operi zube, osmeh blista.",
+      "transliteration": "O-pe-ri zu-be, os-meh blis-ta.",
+      "category": "Daily Routine",
+      "generated_at": "2026-06-30T03:25:33.939269"
     }
   ],
-  "last_updated": "2026-06-29T21:38:11.064799"
+  "last_updated": "2026-06-30T03:25:33.939270"
 }
