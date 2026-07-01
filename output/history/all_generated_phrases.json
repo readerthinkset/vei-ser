@@ -2134,7 +2134,42 @@
       "transliteration": "Veoma, ye, dobro.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-01T03:35:05.571887"
+    },
+    {
+      "english": "My hand, it reaches.",
+      "serbian": "Moja ruka, ona pruža.",
+      "transliteration": "Moy-ah roo-kah, oh-nah proo-zhah.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T14:31:33.933273"
+    },
+    {
+      "english": "Your eyes, they see.",
+      "serbian": "Tvoje oči, one vide.",
+      "transliteration": "Tvoy-eh oh-chee, oh-neh vee-deh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T14:31:33.933282"
+    },
+    {
+      "english": "His foot, it walks.",
+      "serbian": "Njegova noga, ona hoda.",
+      "transliteration": "Nye-go-vah no-gah, oh-nah ho-dah.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T14:31:33.933284"
+    },
+    {
+      "english": "Her mouth, it speaks.",
+      "serbian": "Njena usta, ona govore.",
+      "transliteration": "Nye-nah oo-stah, oh-nah go-vo-reh.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T14:31:33.933285"
+    },
+    {
+      "english": "Our head, it thinks.",
+      "serbian": "Naša glava, ona misli.",
+      "transliteration": "Nah-shah glah-vah, oh-nah mees-lee.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-01T14:31:33.933286"
     }
   ],
-  "last_updated": "2026-07-01T03:35:05.571889"
+  "last_updated": "2026-07-01T14:31:33.933288"
 }
