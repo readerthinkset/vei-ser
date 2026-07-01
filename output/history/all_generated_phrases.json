@@ -2169,7 +2169,42 @@
       "transliteration": "Nah-shah glah-vah, oh-nah mees-lee.",
       "category": "Body Parts",
       "generated_at": "2026-07-01T14:31:33.933286"
+    },
+    {
+      "english": "The sky, a vibrant blue.",
+      "serbian": "Nebo, žarko plavo.",
+      "transliteration": "Nebo, zharko plavo.",
+      "category": "Colors",
+      "generated_at": "2026-07-01T16:32:19.448708"
+    },
+    {
+      "english": "Grass green, life grows.",
+      "serbian": "Trava zelena, život raste.",
+      "transliteration": "Trava zelena, zhivot raste.",
+      "category": "Colors",
+      "generated_at": "2026-07-01T16:32:19.448717"
+    },
+    {
+      "english": "Sun yellow, warm light.",
+      "serbian": "Sunce žuto, topla svetlost.",
+      "transliteration": "Sunce zhuto, topla svetlost.",
+      "category": "Colors",
+      "generated_at": "2026-07-01T16:32:19.448719"
+    },
+    {
+      "english": "Rose red, a soft bloom.",
+      "serbian": "Ruža crvena, nežan cvet.",
+      "transliteration": "Ruzha crvena, nezhan cvet.",
+      "category": "Colors",
+      "generated_at": "2026-07-01T16:32:19.448720"
+    },
+    {
+      "english": "Ocean deep, navy shades.",
+      "serbian": "Okean dubok, mornarske nijanse.",
+      "transliteration": "Okean dubok, mornarske nijanse.",
+      "category": "Colors",
+      "generated_at": "2026-07-01T16:32:19.448721"
     }
   ],
-  "last_updated": "2026-07-01T14:31:33.933288"
+  "last_updated": "2026-07-01T16:32:19.448723"
 }
