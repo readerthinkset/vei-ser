@@ -2099,7 +2099,42 @@
       "transliteration": "Znatiželja osvetljava put napred.",
       "category": "Wisdom",
       "generated_at": "2026-06-30T21:41:30.177684"
+    },
+    {
+      "english": "This, is, beautiful.",
+      "serbian": "Ovo, je, prelepo.",
+      "transliteration": "Ovo, ye, prelepo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T03:35:05.571873"
+    },
+    {
+      "english": "Can, I, help, you?",
+      "serbian": "Mogu, li, da, pomognem?",
+      "transliteration": "Mogu, li, da, pomognem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T03:35:05.571883"
+    },
+    {
+      "english": "Where, is, the, station?",
+      "serbian": "Gde, je, stanica?",
+      "transliteration": "Gde, ye, stanitsa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T03:35:05.571885"
+    },
+    {
+      "english": "I, like, this, food.",
+      "serbian": "Volim, ovu, hranu.",
+      "transliteration": "Volim, ovu, hranu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T03:35:05.571886"
+    },
+    {
+      "english": "It, is, very, good.",
+      "serbian": "Veoma, je, dobro.",
+      "transliteration": "Veoma, ye, dobro.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T03:35:05.571887"
     }
   ],
-  "last_updated": "2026-06-30T21:41:30.177686"
+  "last_updated": "2026-07-01T03:35:05.571889"
 }
