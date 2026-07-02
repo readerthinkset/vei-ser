@@ -2344,7 +2344,42 @@
       "transliteration": "Ukusite srpski život, frazu dnevno.",
       "category": "Purpose",
       "generated_at": "2026-07-02T13:55:13.041788"
+    },
+    {
+      "english": "I'm feeling very unwell, suddenly.",
+      "serbian": "Odjednom mi je jako loše.",
+      "transliteration": "Od-yed-nom mee yeh ya-ko lo-sheh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T18:22:55.786260"
+    },
+    {
+      "english": "Can you direct me, to safety?",
+      "serbian": "Možete li me uputiti, na sigurno?",
+      "transliteration": "Mo-zheh-teh lee meh oo-poo-tee-tee, nah see-goor-no?",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T18:22:55.786279"
+    },
+    {
+      "english": "My breathing, is very difficult.",
+      "serbian": "Veoma mi je teško, da dišem.",
+      "transliteration": "Veh-o-ma mee yeh tehsh-ko, da dee-shem.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T18:22:55.786281"
+    },
+    {
+      "english": "Is there anyone, who speaks English?",
+      "serbian": "Ima li iko, ko govori engleski?",
+      "transliteration": "Ee-ma lee ee-ko, ko go-vo-ree eng-les-kee?",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T18:22:55.786282"
+    },
+    {
+      "english": "I've had an accident, unfortunately.",
+      "serbian": "Doživeo/Doživela sam nesreću, nažalost.",
+      "transliteration": "Do-zhee-veh-o/Do-zhee-veh-la sahm neh-sre-choo, nah-zha-lost.",
+      "category": "Emergency",
+      "generated_at": "2026-07-02T18:22:55.786283"
     }
   ],
-  "last_updated": "2026-07-02T13:55:13.041789"
+  "last_updated": "2026-07-02T18:22:55.786285"
 }
