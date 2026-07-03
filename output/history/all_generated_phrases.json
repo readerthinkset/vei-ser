@@ -2484,7 +2484,42 @@
       "transliteration": "Topli dobrodošlicu, prijatelju.",
       "category": "Greetings",
       "generated_at": "2026-07-03T15:56:23.334807"
+    },
+    {
+      "english": "Learn Serbian, unlock new worlds.",
+      "serbian": "Uči srpski, otvori nove svetove.",
+      "transliteration": "Uchi srpski, otvori nove svetove.",
+      "category": "Education",
+      "generated_at": "2026-07-03T18:08:02.865746"
+    },
+    {
+      "english": "Speak with confidence, my friend.",
+      "serbian": "Pričaj sa poverenjem, moj prijatelju.",
+      "transliteration": "Pritchaj sa poverenjem, moj prijatelju.",
+      "category": "Education",
+      "generated_at": "2026-07-03T18:08:02.865757"
+    },
+    {
+      "english": "Every word, a step forward.",
+      "serbian": "Svaka reč, korak napred.",
+      "transliteration": "Svaka rech, korak napred.",
+      "category": "Education",
+      "generated_at": "2026-07-03T18:08:02.865759"
+    },
+    {
+      "english": "Listen closely, understand deeply.",
+      "serbian": "Slušaj pažljivo, razumi duboko.",
+      "transliteration": "Slushaj pazhljivo, razumi duboko.",
+      "category": "Education",
+      "generated_at": "2026-07-03T18:08:02.865760"
+    },
+    {
+      "english": "Practice makes perfect, you know.",
+      "serbian": "Vežba čini majstora, znaš.",
+      "transliteration": "Vezhba chini majstora, znash.",
+      "category": "Education",
+      "generated_at": "2026-07-03T18:08:02.865762"
     }
   ],
-  "last_updated": "2026-07-03T15:56:23.334809"
+  "last_updated": "2026-07-03T18:08:02.865763"
 }
