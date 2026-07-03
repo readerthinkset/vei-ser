@@ -2449,7 +2449,42 @@
       "transliteration": "Nađi svoj ritam, na srpskom.",
       "category": "Confidence",
       "generated_at": "2026-07-03T02:42:31.830096"
+    },
+    {
+      "english": "Joyful day, to you.",
+      "serbian": "Радостан дан, вама.",
+      "transliteration": "Radostan dan, vama.",
+      "category": "Greetings",
+      "generated_at": "2026-07-03T15:56:23.334790"
+    },
+    {
+      "english": "Greetings, traveler.",
+      "serbian": "Поздрав, путником.",
+      "transliteration": "Pozdrav, putnikom.",
+      "category": "Greetings",
+      "generated_at": "2026-07-03T15:56:23.334802"
+    },
+    {
+      "english": "Bright morning, my dear.",
+      "serbian": "Светло јутро, драги мој.",
+      "transliteration": "Svetlo jutro, dragi moj.",
+      "category": "Greetings",
+      "generated_at": "2026-07-03T15:56:23.334804"
+    },
+    {
+      "english": "A pleasant hello, from me.",
+      "serbian": "Пријатан поздрав, од мене.",
+      "transliteration": "Prijatan pozdrav, od mene.",
+      "category": "Greetings",
+      "generated_at": "2026-07-03T15:56:23.334806"
+    },
+    {
+      "english": "Warm welcome, friend.",
+      "serbian": "Топли добродошлицу, пријатељу.",
+      "transliteration": "Topli dobrodošlicu, prijatelju.",
+      "category": "Greetings",
+      "generated_at": "2026-07-03T15:56:23.334807"
     }
   ],
-  "last_updated": "2026-07-03T02:42:31.830098"
+  "last_updated": "2026-07-03T15:56:23.334809"
 }
