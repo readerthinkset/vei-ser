@@ -2659,7 +2659,42 @@
       "transliteration": "Stvah-ryah-y leh-po-too, svoo-dah.",
       "category": "Positive Life",
       "generated_at": "2026-07-04T15:14:29.612954"
+    },
+    {
+      "english": "This old town, has so much soul.",
+      "serbian": "Ovaj stari grad, ima toliko duše.",
+      "transliteration": "Ovaj stari grad, ima toliko duše.",
+      "category": "Travel",
+      "generated_at": "2026-07-04T17:55:45.283169"
+    },
+    {
+      "english": "What's happening, tonight here?",
+      "serbian": "Šta se dešava, večeras ovde?",
+      "transliteration": "Šta se dešava, večeras ovde?",
+      "category": "Travel",
+      "generated_at": "2026-07-04T17:55:45.283179"
+    },
+    {
+      "english": "Can I join, your little group?",
+      "serbian": "Mogu li se pridružiti, vašoj maloj grupi?",
+      "transliteration": "Mogu li se pridružiti, vašoj maloj grupi?",
+      "category": "Travel",
+      "generated_at": "2026-07-04T17:55:45.283181"
+    },
+    {
+      "english": "This river, flows so calmly.",
+      "serbian": "Ova reka, teče tako mirno.",
+      "transliteration": "Ova reka, teče tako mirno.",
+      "category": "Travel",
+      "generated_at": "2026-07-04T17:55:45.283182"
+    },
+    {
+      "english": "I love, the local pace.",
+      "serbian": "Volim, lokalni tempo.",
+      "transliteration": "Volim, lokalni tempo.",
+      "category": "Travel",
+      "generated_at": "2026-07-04T17:55:45.283184"
     }
   ],
-  "last_updated": "2026-07-04T15:14:29.612956"
+  "last_updated": "2026-07-04T17:55:45.283186"
 }
