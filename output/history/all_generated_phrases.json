@@ -2764,7 +2764,42 @@
       "transliteration": "Oprosti, i kreni dalje.",
       "category": "Kindness",
       "generated_at": "2026-07-05T02:49:13.006256"
+    },
+    {
+      "english": "Tend your garden, gently.",
+      "serbian": "Neguj baštu, nežno.",
+      "transliteration": "Neguj bash-tu, nezh-no.",
+      "category": "Patience",
+      "generated_at": "2026-07-05T13:26:48.707567"
+    },
+    {
+      "english": "Let the river, flow.",
+      "serbian": "Pusti reku, da teče.",
+      "transliteration": "Pusti re-ku, da te-che.",
+      "category": "Patience",
+      "generated_at": "2026-07-05T13:26:48.707579"
+    },
+    {
+      "english": "Listen for the quiet.",
+      "serbian": "Slušaj tišinu, pažljivo.",
+      "transliteration": "Slu-shay ti-shi-nu, pazh-li-vo.",
+      "category": "Patience",
+      "generated_at": "2026-07-05T13:26:48.707581"
+    },
+    {
+      "english": "Unfold the petals, slowly.",
+      "serbian": "Otvori latice, polako.",
+      "transliteration": "Ot-vo-ri la-ti-tse, po-la-ko.",
+      "category": "Patience",
+      "generated_at": "2026-07-05T13:26:48.707583"
+    },
+    {
+      "english": "Build your peace, brick by brick.",
+      "serbian": "Složi mir, ciglu po ciglu.",
+      "transliteration": "Slo-zhi mir, tsig-lu po tsig-lu.",
+      "category": "Patience",
+      "generated_at": "2026-07-05T13:26:48.707584"
     }
   ],
-  "last_updated": "2026-07-05T02:49:13.006258"
+  "last_updated": "2026-07-05T13:26:48.707585"
 }
