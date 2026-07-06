@@ -3044,7 +3044,42 @@
       "transliteration": "Umirujući zvuci, smiruju um.",
       "category": "Music",
       "generated_at": "2026-07-06T18:49:44.257011"
+    },
+    {
+      "english": "This color, is it available?",
+      "serbian": "Ima li ove boje?",
+      "transliteration": "Ima li o-ve bo-ye?",
+      "category": "Shopping",
+      "generated_at": "2026-07-06T21:39:32.961337"
+    },
+    {
+      "english": "I need something, for a gift.",
+      "serbian": "Treba mi nešto, za poklon.",
+      "transliteration": "Tre-ba mi ne-što, za pok-lon.",
+      "category": "Shopping",
+      "generated_at": "2026-07-06T21:39:32.961345"
+    },
+    {
+      "english": "Could you show me, more options?",
+      "serbian": "Možete li, da mi pokažete?",
+      "transliteration": "Mo-že-te li, da mi po-ka-že-te?",
+      "category": "Shopping",
+      "generated_at": "2026-07-06T21:39:32.961347"
+    },
+    {
+      "english": "Is there, a discount today?",
+      "serbian": "Ima li, popusta danas?",
+      "transliteration": "I-ma li, po-pu-sta da-nas?",
+      "category": "Shopping",
+      "generated_at": "2026-07-06T21:39:32.961348"
+    },
+    {
+      "english": "This size, is it too small?",
+      "serbian": "Ova veličina, je l' pretesno?",
+      "transliteration": "O-va ve-li-či-na, je l' pre-te-sno?",
+      "category": "Shopping",
+      "generated_at": "2026-07-06T21:39:32.961349"
     }
   ],
-  "last_updated": "2026-07-06T18:49:44.257013"
+  "last_updated": "2026-07-06T21:39:32.961352"
 }
