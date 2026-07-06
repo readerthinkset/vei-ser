@@ -2939,7 +2939,42 @@
       "transliteration": "Put se otvara, lepo.",
       "category": "Hope",
       "generated_at": "2026-07-06T02:55:32.192752"
+    },
+    {
+      "english": "Feeling adventurous, let's explore.",
+      "serbian": "Osećam avanturu, istražimo.",
+      "transliteration": "Osecham avanturu, istrazhimo.",
+      "category": "Feelings",
+      "generated_at": "2026-07-06T15:28:10.760426"
+    },
+    {
+      "english": "A little bit nostalgic, today.",
+      "serbian": "Danas sam malo nostalgičan/na.",
+      "transliteration": "Danas sam malo nostalghichan/na.",
+      "category": "Feelings",
+      "generated_at": "2026-07-06T15:28:10.760435"
+    },
+    {
+      "english": "Just feeling peaceful, you know?",
+      "serbian": "Prosto sam miran/na, znaš?",
+      "transliteration": "Prosto sam miran/na, znash?",
+      "category": "Feelings",
+      "generated_at": "2026-07-06T15:28:10.760437"
+    },
+    {
+      "english": "Feeling quite curious, about this.",
+      "serbian": "Veoma sam znatiželjan/na, za ovo.",
+      "transliteration": "Veoma sam znatiželjan/na, za ovo.",
+      "category": "Feelings",
+      "generated_at": "2026-07-06T15:28:10.760438"
+    },
+    {
+      "english": "A bit overwhelmed, honestly.",
+      "serbian": "Pomalo sam preplavljen/a, iskreno.",
+      "transliteration": "Pomalo sam preplavl'en/a, iskreno.",
+      "category": "Feelings",
+      "generated_at": "2026-07-06T15:28:10.760439"
     }
   ],
-  "last_updated": "2026-07-06T02:55:32.192753"
+  "last_updated": "2026-07-06T15:28:10.760440"
 }
