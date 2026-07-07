@@ -3114,7 +3114,42 @@
       "transliteration": "Slušaj svoje telo, pa popusti.",
       "category": "Balance",
       "generated_at": "2026-07-07T02:50:05.889621"
+    },
+    {
+      "english": "This shirt is, a perfect fit.",
+      "serbian": "Ova košulja, savršeno pristaje.",
+      "transliteration": "Ova kosulja, savrseno pristaje.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:28:30.253505"
+    },
+    {
+      "english": "Do you like, my new scarf?",
+      "serbian": "Sviđa li ti se, moj novi šal?",
+      "transliteration": "Svidja li ti se, moj novi sal?",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:28:30.253512"
+    },
+    {
+      "english": "These shoes, are quite comfortable.",
+      "serbian": "Ove cipele, veoma su udobne.",
+      "transliteration": "Ove cipele, veoma su udobne.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:28:30.253514"
+    },
+    {
+      "english": "I need a, warmer jacket.",
+      "serbian": "Treba mi, toplija jakna.",
+      "transliteration": "Treba mi, toplija jakna.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:28:30.253516"
+    },
+    {
+      "english": "That dress, is very elegant.",
+      "serbian": "Ta haljina, vrlo je elegantna.",
+      "transliteration": "Ta haljina, vrlo je elegantna.",
+      "category": "Clothes",
+      "generated_at": "2026-07-07T14:28:30.253517"
     }
   ],
-  "last_updated": "2026-07-07T02:50:05.889623"
+  "last_updated": "2026-07-07T14:28:30.253518"
 }
