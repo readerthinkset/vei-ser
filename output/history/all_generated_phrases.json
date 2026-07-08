@@ -3219,7 +3219,42 @@
       "transliteration": "Svetli vam praznici.",
       "category": "Holidays",
       "generated_at": "2026-07-08T02:28:40.982420"
+    },
+    {
+      "english": "Stars twinkle, night is deep.",
+      "serbian": "Zvezde sijaju, noć je duboka.",
+      "transliteration": "Zvezde sijaju, noch' ye dooboka.",
+      "category": "Nature",
+      "generated_at": "2026-07-08T13:59:44.727284"
+    },
+    {
+      "english": "Rain falls, earth drinks.",
+      "serbian": "Kiša pada, zemlja pije.",
+      "transliteration": "Kisha pada, zemlya piye.",
+      "category": "Nature",
+      "generated_at": "2026-07-08T13:59:44.727296"
+    },
+    {
+      "english": "Moonbeams kiss, silent lake.",
+      "serbian": "Mesečina ljubi, tiho jezero.",
+      "transliteration": "Meseschina lyubi, tiho yezero.",
+      "category": "Nature",
+      "generated_at": "2026-07-08T13:59:44.727298"
+    },
+    {
+      "english": "Wildflowers bloom, gentle breeze.",
+      "serbian": "Divlje cveće cveta, blag povetarac.",
+      "transliteration": "Divlye tzvetche tzve'ta, blag povetarats.",
+      "category": "Nature",
+      "generated_at": "2026-07-08T13:59:44.727299"
+    },
+    {
+      "english": "Fog lifts, morning awakens.",
+      "serbian": "Magla se diže, jutro se budi.",
+      "transliteration": "Magla se dizhe, yutro se boodi.",
+      "category": "Nature",
+      "generated_at": "2026-07-08T13:59:44.727300"
     }
   ],
-  "last_updated": "2026-07-08T02:28:40.982421"
+  "last_updated": "2026-07-08T13:59:44.727302"
 }
