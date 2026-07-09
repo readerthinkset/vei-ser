@@ -3429,7 +3429,42 @@
       "transliteration": "Rah-zoo-mee srps-keh feel-moh-veh, boh-lyeh.",
       "category": "Purpose",
       "generated_at": "2026-07-09T14:54:28.989209"
+    },
+    {
+      "english": "You're a lifesaver, truly.",
+      "serbian": "Spasao/la si me, zaista.",
+      "transliteration": "Spasao/la si me, zaista.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-09T16:31:43.539180"
+    },
+    {
+      "english": "This was a big help.",
+      "serbian": "Ovo je bila velika pomoć.",
+      "transliteration": "Ovo je bila velika pomoć.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-09T16:31:43.539190"
+    },
+    {
+      "english": "I really appreciate this.",
+      "serbian": "Baš cenim ovo.",
+      "transliteration": "Baš cenim ovo.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-09T16:31:43.539192"
+    },
+    {
+      "english": "You made my day, thank you.",
+      "serbian": "Ulepšao/la si mi dan, hvala.",
+      "transliteration": "Ulepšao/la si mi dan, hvala.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-09T16:31:43.539193"
+    },
+    {
+      "english": "My thanks, for your effort.",
+      "serbian": "Hvala ti, na trudu.",
+      "transliteration": "Hvala ti, na trudu.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-09T16:31:43.539194"
     }
   ],
-  "last_updated": "2026-07-09T14:54:28.989211"
+  "last_updated": "2026-07-09T16:31:43.539196"
 }
