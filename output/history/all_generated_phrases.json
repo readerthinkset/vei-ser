@@ -3359,7 +3359,42 @@
       "transliteration": "Topao zagrljaj, porodica na prvom mestu.",
       "category": "Culture",
       "generated_at": "2026-07-08T21:11:14.513339"
+    },
+    {
+      "english": "My phone died, urgently need power.",
+      "serbian": "Telefon mi je umro, hitno treba struja.",
+      "transliteration": "Telefon mi je umro, hitno treba struja.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T02:42:34.858568"
+    },
+    {
+      "english": "I've lost my way, please guide.",
+      "serbian": "Izgubio sam se, molim vas, vodite.",
+      "transliteration": "Izgubio sam se, molim vas, vodite.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T02:42:34.858577"
+    },
+    {
+      "english": "This is an emergency, quick call.",
+      "serbian": "Ovo je hitno, pozovite brzo.",
+      "transliteration": "Ovo je hitno, pozovite brzo.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T02:42:34.858579"
+    },
+    {
+      "english": "I feel faint, need a seat.",
+      "serbian": "Osećam se slabo, treba mi sedište.",
+      "transliteration": "Osećam se slabo, treba mi sedište.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T02:42:34.858580"
+    },
+    {
+      "english": "Someone is ill, need medical help.",
+      "serbian": "Neko je bolestan, treba lekarska pomoć.",
+      "transliteration": "Neko je bolestan, treba lekarska pomoć.",
+      "category": "Emergency",
+      "generated_at": "2026-07-09T02:42:34.858582"
     }
   ],
-  "last_updated": "2026-07-08T21:11:14.513340"
+  "last_updated": "2026-07-09T02:42:34.858583"
 }
