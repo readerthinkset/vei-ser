@@ -3394,7 +3394,42 @@
       "transliteration": "Neko je bolestan, treba lekarska pomoć.",
       "category": "Emergency",
       "generated_at": "2026-07-09T02:42:34.858582"
+    },
+    {
+      "english": "Chat with locals, genuinely.",
+      "serbian": "Pričaj sa lokalcima, iskreno.",
+      "transliteration": "Pree-chay sah loh-kah-leet-sah, ees-kreh-noh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-09T14:54:28.989194"
+    },
+    {
+      "english": "Read Serbian stories, deeply.",
+      "serbian": "Čitaj srpske priče, duboko.",
+      "transliteration": "Chee-tay srps-keh pree-cheh, doo-boh-koh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-09T14:54:28.989205"
+    },
+    {
+      "english": "Sing along, to Serbian songs.",
+      "serbian": "Pevaj uz, srpske pesme.",
+      "transliteration": "Peh-vay ooz, srps-keh pehs-meh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-09T14:54:28.989207"
+    },
+    {
+      "english": "Order coffee, confidently.",
+      "serbian": "Naruči kafu, sigurno.",
+      "transliteration": "Nah-roo-chee kah-foo, see-goor-noh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-09T14:54:28.989208"
+    },
+    {
+      "english": "Understand Serbian films, better.",
+      "serbian": "Razumi srpske filmove, bolje.",
+      "transliteration": "Rah-zoo-mee srps-keh feel-moh-veh, boh-lyeh.",
+      "category": "Purpose",
+      "generated_at": "2026-07-09T14:54:28.989209"
     }
   ],
-  "last_updated": "2026-07-09T02:42:34.858583"
+  "last_updated": "2026-07-09T14:54:28.989211"
 }
