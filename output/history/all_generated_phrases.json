@@ -3604,7 +3604,42 @@
       "transliteration": "Zrela šljiva, duboko ljubičasta.",
       "category": "Colors",
       "generated_at": "2026-07-10T14:21:27.651269"
+    },
+    {
+      "english": "Listen carefully, please.",
+      "serbian": "Слушајте пажљиво, молим.",
+      "transliteration": "Slušajte pažljivo, molim.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T16:28:59.316265"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "serbian": "Поновите за мном, полако.",
+      "transliteration": "Ponovite za mnom, polako.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T16:28:59.316277"
+    },
+    {
+      "english": "Read this aloud, now.",
+      "serbian": "Прочитајте ово наглас, сада.",
+      "transliteration": "Pročitajte ovo naglas, sada.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T16:28:59.316279"
+    },
+    {
+      "english": "Write it down, quickly.",
+      "serbian": "Запишите то, брзо.",
+      "transliteration": "Zapišite to, brzo.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T16:28:59.316281"
+    },
+    {
+      "english": "Open your books, please.",
+      "serbian": "Отворите своје књиге, молим.",
+      "transliteration": "Otvorite svoje knjige, molim.",
+      "category": "Directions",
+      "generated_at": "2026-07-10T16:28:59.316282"
     }
   ],
-  "last_updated": "2026-07-10T14:21:27.651271"
+  "last_updated": "2026-07-10T16:28:59.316284"
 }
