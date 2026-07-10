@@ -3639,7 +3639,42 @@
       "transliteration": "Otvorite svoje knjige, molim.",
       "category": "Directions",
       "generated_at": "2026-07-10T16:28:59.316282"
+    },
+    {
+      "english": "What a lovely day, isn't it?",
+      "serbian": "Kakav divan dan, zar ne?",
+      "transliteration": "Kakav divan dan, zar ne?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T18:17:19.218829"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "serbian": "Možete li sporije, molim?",
+      "transliteration": "Mozhete li sporije, molim?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T18:17:19.218838"
+    },
+    {
+      "english": "This is a great souvenir, I'll take it.",
+      "serbian": "Ovo je sjajan suvenir, uzeću ga.",
+      "transliteration": "Ovo je sjajan suvenir, uzechu ga.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T18:17:19.218840"
+    },
+    {
+      "english": "My Serbian is still improving.",
+      "serbian": "Moj srpski još uvek napreduje.",
+      "transliteration": "Moj srpski josh uvek napreduje.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T18:17:19.218841"
+    },
+    {
+      "english": "What time does it open?",
+      "serbian": "U koliko sati se otvara?",
+      "transliteration": "U koliko sati se otvara?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T18:17:19.218842"
     }
   ],
-  "last_updated": "2026-07-10T16:28:59.316284"
+  "last_updated": "2026-07-10T18:17:19.218844"
 }
