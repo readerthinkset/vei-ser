@@ -3534,7 +3534,42 @@
       "transliteration": "Unutrašnji mir, te ukotvljuje.",
       "category": "Strength",
       "generated_at": "2026-07-09T21:26:00.371693"
+    },
+    {
+      "english": "Morning, boss. What's first?",
+      "serbian": "Dobro jutro, šefe. Šta je prvo?",
+      "transliteration": "Dobro jutro, shefe. Shta ye prvo?",
+      "category": "Work",
+      "generated_at": "2026-07-10T02:45:39.803609"
+    },
+    {
+      "english": "This report, needs review.",
+      "serbian": "Ovaj izveštaj, treba pregledati.",
+      "transliteration": "Ova'y izveshtay, treyba pregledati.",
+      "category": "Work",
+      "generated_at": "2026-07-10T02:45:39.803618"
+    },
+    {
+      "english": "Meeting starts, soon.",
+      "serbian": "Sastanak počinje, uskoro.",
+      "transliteration": "Sastanak pochinye, uskoro.",
+      "category": "Work",
+      "generated_at": "2026-07-10T02:45:39.803620"
+    },
+    {
+      "english": "Let's analyze, this data.",
+      "serbian": "Hajdemo analizirati, ove podatke.",
+      "transliteration": "Haydemo analizirati, ove podatke.",
+      "category": "Work",
+      "generated_at": "2026-07-10T02:45:39.803621"
+    },
+    {
+      "english": "New challenge, ahead.",
+      "serbian": "Novi izazov, pred nama.",
+      "transliteration": "Novi izazov, pred nama.",
+      "category": "Work",
+      "generated_at": "2026-07-10T02:45:39.803623"
     }
   ],
-  "last_updated": "2026-07-09T21:26:00.371695"
+  "last_updated": "2026-07-10T02:45:39.803624"
 }
