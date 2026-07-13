@@ -4129,7 +4129,42 @@
       "transliteration": "Otvori vrata, tečnošću srpskog.",
       "category": "Motivation",
       "generated_at": "2026-07-13T16:39:50.117672"
+    },
+    {
+      "english": "Forest breathes, ancient trees watch.",
+      "serbian": "Šuma diše, staro drveće gleda.",
+      "transliteration": "Shuma dishe, staro drvece gleda.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:26:48.972978"
+    },
+    {
+      "english": "Ocean roars, waves crash ashore.",
+      "serbian": "Okean urla, talasi udaraju obalu.",
+      "transliteration": "Okean urla, talasi udaraju obalu.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:26:48.972990"
+    },
+    {
+      "english": "Meadow hums, busy bees fly.",
+      "serbian": "Livada zuji, vredne pčele lete.",
+      "transliteration": "Livada zuji, vredne pele lete.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:26:48.972992"
+    },
+    {
+      "english": "Desert sleeps, stars ignite.",
+      "serbian": "Pustinja spava, zvezde se pale.",
+      "transliteration": "Pustinja spava, zvezde se pale.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:26:48.972993"
+    },
+    {
+      "english": "Canyon echoes, wind carves stone.",
+      "serbian": "Kanjon odjekuje, vetar dubi kamen.",
+      "transliteration": "Kanjon odjekuje, vetar dubi kamen.",
+      "category": "Nature",
+      "generated_at": "2026-07-13T18:26:48.972994"
     }
   ],
-  "last_updated": "2026-07-13T16:39:50.117674"
+  "last_updated": "2026-07-13T18:26:48.972996"
 }
