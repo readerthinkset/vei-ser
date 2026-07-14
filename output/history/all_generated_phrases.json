@@ -4269,7 +4269,42 @@
       "transliteration": "Tako zahvalan, za sve.",
       "category": "Feelings",
       "generated_at": "2026-07-14T13:29:44.393194"
+    },
+    {
+      "english": "A lazy bear, snoozes deeply.",
+      "serbian": "Lenji medved, duboko drema.",
+      "transliteration": "Len-yi med-ved, du-bo-ko dre-ma.",
+      "category": "Animals",
+      "generated_at": "2026-07-14T15:28:29.131666"
+    },
+    {
+      "english": "The quick fox, hides its tail.",
+      "serbian": "Brza lisica, rep sakriva.",
+      "transliteration": "Brtza li-si-tsa, rep sa-kri-va.",
+      "category": "Animals",
+      "generated_at": "2026-07-14T15:28:29.131676"
+    },
+    {
+      "english": "An owl, watches the night.",
+      "serbian": "Sova, noć posmatra.",
+      "transliteration": "So-va, noch po-smat-ra.",
+      "category": "Animals",
+      "generated_at": "2026-07-14T15:28:29.131677"
+    },
+    {
+      "english": "The busy bee, gathers nectar.",
+      "serbian": "Vredna pčela, sakuplja nektar.",
+      "transliteration": "Vred-na pch-e-la, sa-ku-plja nek-tar.",
+      "category": "Animals",
+      "generated_at": "2026-07-14T15:28:29.131679"
+    },
+    {
+      "english": "A curious monkey, swings high.",
+      "serbian": "Radoznala majmunica, visoko se ljulja.",
+      "transliteration": "Ra-do-zna-la maj-mu-ni-tsa, vi-so-ko se lju-lja.",
+      "category": "Animals",
+      "generated_at": "2026-07-14T15:28:29.131680"
     }
   ],
-  "last_updated": "2026-07-14T13:29:44.393196"
+  "last_updated": "2026-07-14T15:28:29.131682"
 }
