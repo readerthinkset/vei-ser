@@ -4619,7 +4619,42 @@
       "transliteration": "Srpski vas cheka, vaš radoznali um.",
       "category": "Education",
       "generated_at": "2026-07-16T13:46:49.749275"
+    },
+    {
+      "english": "First, a little coffee.",
+      "serbian": "Prvo, malo kafe.",
+      "transliteration": "Prvo, malo kafe.",
+      "category": "Numbers",
+      "generated_at": "2026-07-16T15:44:19.263710"
+    },
+    {
+      "english": "Second page, please.",
+      "serbian": "Druga strana, molim.",
+      "transliteration": "Druga strana, molim.",
+      "category": "Numbers",
+      "generated_at": "2026-07-16T15:44:19.263720"
+    },
+    {
+      "english": "Third time, lucky.",
+      "serbian": "Treći put, sreća.",
+      "transliteration": "Treći put, sreća.",
+      "category": "Numbers",
+      "generated_at": "2026-07-16T15:44:19.263722"
+    },
+    {
+      "english": "Fourth floor, elevator.",
+      "serbian": "Četvrti sprat, lift.",
+      "transliteration": "Četvrti sprat, lift.",
+      "category": "Numbers",
+      "generated_at": "2026-07-16T15:44:19.263724"
+    },
+    {
+      "english": "Fifth attempt, success.",
+      "serbian": "Peti pokušaj, uspeh.",
+      "transliteration": "Peti pokušaj, uspeh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-16T15:44:19.263725"
     }
   ],
-  "last_updated": "2026-07-16T13:46:49.749277"
+  "last_updated": "2026-07-16T15:44:19.263726"
 }
