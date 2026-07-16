@@ -4549,7 +4549,42 @@
       "transliteration": "Svež vazduh, otvoren put, osećaj slobode.",
       "category": "Happiness",
       "generated_at": "2026-07-15T21:03:25.586202"
+    },
+    {
+      "english": "Gentle dawn, soft pink.",
+      "serbian": "Nežna zora, nežno roze.",
+      "transliteration": "Nezhna zora, nezno roze.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T02:22:29.998637"
+    },
+    {
+      "english": "Smoky grey, a quiet mood.",
+      "serbian": "Dimno sivo, tiho raspoloženje.",
+      "transliteration": "Dimno sivo, tiho raspolozenje.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T02:22:29.998646"
+    },
+    {
+      "english": "Lemon zest, bright and sharp.",
+      "serbian": "Limunova kora, sjajno i oštro.",
+      "transliteration": "Limonova kora, sjajno i ostro.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T02:22:29.998647"
+    },
+    {
+      "english": "Emerald gleam, like fresh leaves.",
+      "serbian": "Smaragdni sjaj, kao sveže lišće.",
+      "transliteration": "Smargadni sjaj, kao svezhe lishche.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T02:22:29.998649"
+    },
+    {
+      "english": "Golden honey, sweet and rich.",
+      "serbian": "Zlatni med, slatko i bogato.",
+      "transliteration": "Zlatni med, slatko i bogato.",
+      "category": "Colors",
+      "generated_at": "2026-07-16T02:22:29.998650"
     }
   ],
-  "last_updated": "2026-07-15T21:03:25.586204"
+  "last_updated": "2026-07-16T02:22:29.998652"
 }
