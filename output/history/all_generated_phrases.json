@@ -4829,7 +4829,42 @@
       "transliteration": "Trenutak, za razmišljanje.",
       "category": "Work",
       "generated_at": "2026-07-17T20:59:31.532004"
+    },
+    {
+      "english": "You paint, my world, in color.",
+      "serbian": "Ti bojiš, moj svet, u boje.",
+      "transliteration": "Ti bo-jish, moy svet, u bo-ye.",
+      "category": "Love",
+      "generated_at": "2026-07-18T02:10:05.824417"
+    },
+    {
+      "english": "Like sunshine, on a cloudy day.",
+      "serbian": "Kao sunce, na oblačan dan.",
+      "transliteration": "Kao sun-tse, na ob-la-chan dan.",
+      "category": "Love",
+      "generated_at": "2026-07-18T02:10:05.824428"
+    },
+    {
+      "english": "My favorite song, is your laugh.",
+      "serbian": "Moja omiljena pesma, je tvoj smeh.",
+      "transliteration": "Mo-ya o-mi-lje-na pes-ma, ye toy smeh.",
+      "category": "Love",
+      "generated_at": "2026-07-18T02:10:05.824430"
+    },
+    {
+      "english": "A spark, ignites, within me.",
+      "serbian": "Iskra, pali, u meni.",
+      "transliteration": "Is-kra, pa-li, u me-ni.",
+      "category": "Love",
+      "generated_at": "2026-07-18T02:10:05.824431"
+    },
+    {
+      "english": "You're the missing piece, I found.",
+      "serbian": "Ti si deo, koji sam našao.",
+      "transliteration": "Ti si deo, ko-ji sam na-shao.",
+      "category": "Love",
+      "generated_at": "2026-07-18T02:10:05.824432"
     }
   ],
-  "last_updated": "2026-07-17T20:59:31.532005"
+  "last_updated": "2026-07-18T02:10:05.824434"
 }
