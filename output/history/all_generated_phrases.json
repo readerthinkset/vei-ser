@@ -5074,7 +5074,42 @@
       "transliteration": "Ti si blago, hvala ti.",
       "category": "Gratitude",
       "generated_at": "2026-07-19T13:13:42.691490"
+    },
+    {
+      "english": "My brother, a true adventurer.",
+      "serbian": "Moj brat, pravi avanturista.",
+      "transliteration": "Moy brat, pravi avanturista.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-19T15:05:30.381461"
+    },
+    {
+      "english": "Your sister, she always smiles.",
+      "serbian": "Tvoja sestra, uvek se smeje.",
+      "transliteration": "Tvoja sestra, uvek se smeje.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-19T15:05:30.381470"
+    },
+    {
+      "english": "Our father, a quiet observer.",
+      "serbian": "Naš otac, tihi posmatrač.",
+      "transliteration": "Nash otats, tihi posmatrach.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-19T15:05:30.381472"
+    },
+    {
+      "english": "Their mother, a gentle soul.",
+      "serbian": "Njihova majka, blaga duša.",
+      "transliteration": "Nji'ova mayka, blaga dusha.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-19T15:05:30.381474"
+    },
+    {
+      "english": "My grandmother, her wisdom shines.",
+      "serbian": "Moja baka, njena mudrost sija.",
+      "transliteration": "Moya baka, njena mudrost sija.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-19T15:05:30.381475"
     }
   ],
-  "last_updated": "2026-07-19T13:13:42.691492"
+  "last_updated": "2026-07-19T15:05:30.381477"
 }
