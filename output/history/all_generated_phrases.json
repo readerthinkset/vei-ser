@@ -5564,7 +5564,42 @@
       "transliteration": "Mislim, da me neko prati.",
       "category": "Emergency",
       "generated_at": "2026-07-22T02:24:36.996299"
+    },
+    {
+      "english": "Just a dozen, maybe more.",
+      "serbian": "Samo dvanaest, možda više.",
+      "transliteration": "Samo dvanaest, možda više.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T13:47:12.516317"
+    },
+    {
+      "english": "About seventy, give or take.",
+      "serbian": "Oko sedamdeset, otprilike.",
+      "transliteration": "Oko sedamdeset, otprilike.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T13:47:12.516327"
+    },
+    {
+      "english": "Fifteen minutes, maximum.",
+      "serbian": "Petnaest minuta, najviše.",
+      "transliteration": "Petnaest minuta, najviše.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T13:47:12.516329"
+    },
+    {
+      "english": "A hundred reasons, why not.",
+      "serbian": "Sto razloga, zašto ne.",
+      "transliteration": "Sto razloga, zašto ne.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T13:47:12.516330"
+    },
+    {
+      "english": "Nine planets, in the sky.",
+      "serbian": "Devet planeta, na nebu.",
+      "transliteration": "Devet planeta, na nebu.",
+      "category": "Numbers",
+      "generated_at": "2026-07-22T13:47:12.516331"
     }
   ],
-  "last_updated": "2026-07-22T02:24:36.996300"
+  "last_updated": "2026-07-22T13:47:12.516333"
 }
