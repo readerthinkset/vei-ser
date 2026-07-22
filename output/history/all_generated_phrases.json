@@ -5529,7 +5529,42 @@
       "transliteration": "Blagi jelen, skače graciozno.",
       "category": "Animals",
       "generated_at": "2026-07-21T21:13:31.842157"
+    },
+    {
+      "english": "Danger, over there, quickly!",
+      "serbian": "Opasnost, tamo, brzo!",
+      "transliteration": "Opasnost, tamo, brzo!",
+      "category": "Emergency",
+      "generated_at": "2026-07-22T02:24:36.996282"
+    },
+    {
+      "english": "I need to report, something serious.",
+      "serbian": "Moram da prijavim, nešto ozbiljno.",
+      "transliteration": "Moram da prijavim, nešto ozbiljno.",
+      "category": "Emergency",
+      "generated_at": "2026-07-22T02:24:36.996294"
+    },
+    {
+      "english": "Can you get, a translator, please?",
+      "serbian": "Možete li, dovesti prevodioca, molim?",
+      "transliteration": "Možete li, dovesti prevodioca, molim?",
+      "category": "Emergency",
+      "generated_at": "2026-07-22T02:24:36.996296"
+    },
+    {
+      "english": "My bag, is gone, help me!",
+      "serbian": "Moja torba, je nestala, pomozite!",
+      "transliteration": "Moja torba, je nestala, pomozite!",
+      "category": "Emergency",
+      "generated_at": "2026-07-22T02:24:36.996298"
+    },
+    {
+      "english": "I think, I'm being followed.",
+      "serbian": "Mislim, da me neko prati.",
+      "transliteration": "Mislim, da me neko prati.",
+      "category": "Emergency",
+      "generated_at": "2026-07-22T02:24:36.996299"
     }
   ],
-  "last_updated": "2026-07-21T21:13:31.842158"
+  "last_updated": "2026-07-22T02:24:36.996300"
 }
