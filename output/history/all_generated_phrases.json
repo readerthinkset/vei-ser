@@ -5739,7 +5739,42 @@
       "transliteration": "Kapljice rose se drže, na paučini.",
       "category": "Nature",
       "generated_at": "2026-07-23T02:29:59.645057"
+    },
+    {
+      "english": "My heart, beats fast.",
+      "serbian": "Moje srce, kuca brzo.",
+      "transliteration": "Mo-ye sr-tse, ku-tsa brz-o.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T13:51:59.032028"
+    },
+    {
+      "english": "Your ear, hears secrets.",
+      "serbian": "Tvoje uho, čuje tajne.",
+      "transliteration": "Tvo-ye u-ho, ču-ye tay-ne.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T13:51:59.032039"
+    },
+    {
+      "english": "His nose, smells flowers.",
+      "serbian": "Njegov nos, miriše cveće.",
+      "transliteration": "Nje-gov nos, mi-ri-she tsve-će.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T13:51:59.032041"
+    },
+    {
+      "english": "Her arm, lifts weights.",
+      "serbian": "Njena ruka, diže tegove.",
+      "transliteration": "Nje-na ru-ka, di-zhe te-go-ve.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T13:51:59.032043"
+    },
+    {
+      "english": "Our leg, jumps high.",
+      "serbian": "Naša noga, skače visoko.",
+      "transliteration": "Na-sha no-ga, ska-che vi-so-ko.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-23T13:51:59.032044"
     }
   ],
-  "last_updated": "2026-07-23T02:29:59.645058"
+  "last_updated": "2026-07-23T13:51:59.032045"
 }
