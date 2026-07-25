@@ -6089,7 +6089,42 @@
       "transliteration": "Osecam se sasvim zadovoljno, jednostavnim stvarima.",
       "category": "Feelings",
       "generated_at": "2026-07-25T15:11:35.472781"
+    },
+    {
+      "english": "Clouds are gathering, dark and fast.",
+      "serbian": "Oblaci se skupljaju, tamni i brzi.",
+      "transliteration": "Oblatsi se sku-PLI-yoo, tam-NEE ee BRZI.",
+      "category": "Weather",
+      "generated_at": "2026-07-25T17:50:02.683732"
+    },
+    {
+      "english": "A sudden downpour, caught us off guard.",
+      "serbian": "Iznenadni pljusak, zatekao nas je nespremne.",
+      "transliteration": "IZ-nen-ad-nee PLYOO-sak, za-TEK-ao nas ye NES-prem-nye.",
+      "category": "Weather",
+      "generated_at": "2026-07-25T17:50:02.683744"
+    },
+    {
+      "english": "The wind howls, through the trees.",
+      "serbian": "Vetar zavija, kroz drveće.",
+      "transliteration": "VET-ar ZA-vee-ya, kroz DRVETCH-ye.",
+      "category": "Weather",
+      "generated_at": "2026-07-25T17:50:02.683746"
+    },
+    {
+      "english": "A hint of frost, on the window pane.",
+      "serbian": "Malo mraza, na prozorskom staklu.",
+      "transliteration": "MA-lo MRA-za, na PRO-zor-skom STAK-loo.",
+      "category": "Weather",
+      "generated_at": "2026-07-25T17:50:02.683747"
+    },
+    {
+      "english": "Thunder rumbled, a distant sound.",
+      "serbian": "Grmljavina je tutnjala, daleki zvuk.",
+      "transliteration": "GRML-ya-vee-na ye TUTN-ya-la, DA-le-kee ZVOOK.",
+      "category": "Weather",
+      "generated_at": "2026-07-25T17:50:02.683748"
     }
   ],
-  "last_updated": "2026-07-25T15:11:35.472783"
+  "last_updated": "2026-07-25T17:50:02.683750"
 }
