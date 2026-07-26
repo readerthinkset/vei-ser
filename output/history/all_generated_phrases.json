@@ -6159,7 +6159,42 @@
       "transliteration": "Ažuriranja softvera, život.",
       "category": "Technology",
       "generated_at": "2026-07-25T20:56:00.153711"
+    },
+    {
+      "english": "Just browsing, for now.",
+      "serbian": "Samo razgledam, za sada.",
+      "transliteration": "Samo razgledam, za sada.",
+      "category": "Shopping",
+      "generated_at": "2026-07-26T02:31:56.253616"
+    },
+    {
+      "english": "This caught my eye, indeed.",
+      "serbian": "Ovo mi je zapalo, za oko.",
+      "transliteration": "Ovo mi je zapalo, za oko.",
+      "category": "Shopping",
+      "generated_at": "2026-07-26T02:31:56.253628"
+    },
+    {
+      "english": "Do you have, a similar item?",
+      "serbian": "Imate, nešto slično?",
+      "transliteration": "Imate, nešto slično?",
+      "category": "Shopping",
+      "generated_at": "2026-07-26T02:31:56.253631"
+    },
+    {
+      "english": "It's a bit pricey, isn't it?",
+      "serbian": "Malo je skupo, zar ne?",
+      "transliteration": "Malo je skupo, zar ne?",
+      "category": "Shopping",
+      "generated_at": "2026-07-26T02:31:56.253632"
+    },
+    {
+      "english": "What is the, original price?",
+      "serbian": "Koja je, originalna cena?",
+      "transliteration": "Koja je, originalna cena?",
+      "category": "Shopping",
+      "generated_at": "2026-07-26T02:31:56.253633"
     }
   ],
-  "last_updated": "2026-07-25T20:56:00.153713"
+  "last_updated": "2026-07-26T02:31:56.253635"
 }
