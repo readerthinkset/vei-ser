@@ -6369,7 +6369,42 @@
       "transliteration": "Malo srpskog, znači mnogo.",
       "category": "Education",
       "generated_at": "2026-07-27T02:39:38.269516"
+    },
+    {
+      "english": "This coffee,  is strong.",
+      "serbian": "Ova kafa,  je jaka.",
+      "transliteration": "Ova kafa, ye yaka.",
+      "category": "Food",
+      "generated_at": "2026-07-27T16:27:57.268405"
+    },
+    {
+      "english": "My favorite,  dessert.",
+      "serbian": "Moj omiljeni,  kolač.",
+      "transliteration": "Moy omiljeni, kolach.",
+      "category": "Food",
+      "generated_at": "2026-07-27T16:27:57.268417"
+    },
+    {
+      "english": "More water, if you please.",
+      "serbian": "Još vode, molim.",
+      "transliteration": "Yosh vode, molim.",
+      "category": "Food",
+      "generated_at": "2026-07-27T16:27:57.268419"
+    },
+    {
+      "english": "A taste, of home.",
+      "serbian": "Ukus, mog doma.",
+      "transliteration": "Ukus, mog doma.",
+      "category": "Food",
+      "generated_at": "2026-07-27T16:27:57.268420"
+    },
+    {
+      "english": "This fruit, is sweet.",
+      "serbian": "Ovo voće, je slatko.",
+      "transliteration": "Ovo voće, ye slatko.",
+      "category": "Food",
+      "generated_at": "2026-07-27T16:27:57.268421"
     }
   ],
-  "last_updated": "2026-07-27T02:39:38.269518"
+  "last_updated": "2026-07-27T16:27:57.268423"
 }
