@@ -6544,7 +6544,42 @@
       "transliteration": "Kah-kahv deev-ahn gest.",
       "category": "Gratitude",
       "generated_at": "2026-07-29T15:55:37.023391"
+    },
+    {
+      "english": "One apple, red and ripe.",
+      "serbian": "Jedna jabuka, crvena i zrela.",
+      "transliteration": "Yedna yabuka, crvena ee zrela.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T18:01:44.364871"
+    },
+    {
+      "english": "Two roads, diverged in the wood.",
+      "serbian": "Dva puta, razišla se u šumi.",
+      "transliteration": "Dva poot-a, razyish-a se oo shoomee.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T18:01:44.364881"
+    },
+    {
+      "english": "Three wishes, granted by luck.",
+      "serbian": "Tri želje, ispunjene srećom.",
+      "transliteration": "Tree zhel-ye, ees-poo-nye-ne sreh-chom.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T18:01:44.364883"
+    },
+    {
+      "english": "Four leaves, clover found.",
+      "serbian": "Četiri lista, deteline nađene.",
+      "transliteration": "Chay-teeree leesta, deh-telee-neh nad-ye-neh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T18:01:44.364885"
+    },
+    {
+      "english": "Five senses, at work now.",
+      "serbian": "Pet čula, sada rade.",
+      "transliteration": "Pet chool-a, sada radeh.",
+      "category": "Numbers",
+      "generated_at": "2026-07-29T18:01:44.364886"
     }
   ],
-  "last_updated": "2026-07-29T15:55:37.023392"
+  "last_updated": "2026-07-29T18:01:44.364888"
 }
