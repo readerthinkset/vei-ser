@@ -6474,7 +6474,42 @@
       "transliteration": "Sum nja ble di, upor nost pob eđu je.",
       "category": "Perseverance",
       "generated_at": "2026-07-29T02:24:47.366394"
+    },
+    {
+      "english": "Let's go, now.",
+      "serbian": "Idemo, sad.",
+      "transliteration": "Idemo, sad.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:06:17.275223"
+    },
+    {
+      "english": "This is good, hmm?",
+      "serbian": "Ovo je dobro, zar ne?",
+      "transliteration": "Ovo je dobro, zar ne?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:06:17.275233"
+    },
+    {
+      "english": "I'm learning, slowly.",
+      "serbian": "Učim, polako.",
+      "transliteration": "Uchim, polako.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:06:17.275234"
+    },
+    {
+      "english": "Can you believe, it?",
+      "serbian": "Možeš li da veruješ, u to?",
+      "transliteration": "Mozhesh li da verujesh, u to?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:06:17.275235"
+    },
+    {
+      "english": "Here it is, finally.",
+      "serbian": "Evo ga, konačno.",
+      "transliteration": "Evo ga, konachno.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:06:17.275236"
     }
   ],
-  "last_updated": "2026-07-29T02:24:47.366396"
+  "last_updated": "2026-07-29T14:06:17.275238"
 }
