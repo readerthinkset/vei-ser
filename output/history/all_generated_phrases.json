@@ -6824,7 +6824,42 @@
       "transliteration": "Imate li, druge boje?",
       "category": "Shopping",
       "generated_at": "2026-07-31T16:05:40.054172"
+    },
+    {
+      "english": "Sunbeams, through the leaves.",
+      "serbian": "Зраци сунца, кроз лишће.",
+      "transliteration": "Zraci sunca, kroz lišće.",
+      "category": "Weather",
+      "generated_at": "2026-07-31T18:14:59.095829"
+    },
+    {
+      "english": "Sky's, a soft blue.",
+      "serbian": "Небо, је нежно плаво.",
+      "transliteration": "Nebo, je nežno plavo.",
+      "category": "Weather",
+      "generated_at": "2026-07-31T18:14:59.095840"
+    },
+    {
+      "english": "Raindrops, tap the roof.",
+      "serbian": "Капи кише, лупкају по крову.",
+      "transliteration": "Kapi kiše, lupkaju po krovu.",
+      "category": "Weather",
+      "generated_at": "2026-07-31T18:14:59.095842"
+    },
+    {
+      "english": "Wind whispers, secrets.",
+      "serbian": "Ветар шапуће, тајне.",
+      "transliteration": "Vetar šapuće, tajne.",
+      "category": "Weather",
+      "generated_at": "2026-07-31T18:14:59.095843"
+    },
+    {
+      "english": "Clouds drift, lazily.",
+      "serbian": "Облаци плутају, лењо.",
+      "transliteration": "Oblaci plutaju, lenjo.",
+      "category": "Weather",
+      "generated_at": "2026-07-31T18:14:59.095844"
     }
   ],
-  "last_updated": "2026-07-31T16:05:40.054174"
+  "last_updated": "2026-07-31T18:14:59.095846"
 }
