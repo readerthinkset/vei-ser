@@ -6754,7 +6754,42 @@
       "transliteration": "Malo sam zbunjen(a), ovim.",
       "category": "Feelings",
       "generated_at": "2026-07-30T21:14:52.300816"
+    },
+    {
+      "english": "We are hungry, very hungry.",
+      "serbian": "Glavni smo, baš smo gladni.",
+      "transliteration": "Glavni smo, baš smo gladni.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-31T14:00:18.390155"
+    },
+    {
+      "english": "Just water, for now, thank you.",
+      "serbian": "Samo vodu, za sada, hvala.",
+      "transliteration": "Samo vodu, za sada, hvala.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-31T14:00:18.390164"
+    },
+    {
+      "english": "This smells wonderful, doesn't it?",
+      "serbian": "Ovo divno miriše, zar ne?",
+      "transliteration": "Ovo divno miriše, zar ne?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-31T14:00:18.390166"
+    },
+    {
+      "english": "What do you recommend, truly?",
+      "serbian": "Šta nam preporučujete, iskreno?",
+      "transliteration": "Šta nam preporučujete, iskreno?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-31T14:00:18.390168"
+    },
+    {
+      "english": "Can we sit by the window?",
+      "serbian": "Možemo li sedeti pored prozora?",
+      "transliteration": "Možemo li sedeti pored prozora?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-31T14:00:18.390169"
     }
   ],
-  "last_updated": "2026-07-30T21:14:52.300818"
+  "last_updated": "2026-07-31T14:00:18.390170"
 }
