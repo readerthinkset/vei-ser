@@ -6789,7 +6789,42 @@
       "transliteration": "Možemo li sedeti pored prozora?",
       "category": "Restaurant",
       "generated_at": "2026-07-31T14:00:18.390169"
+    },
+    {
+      "english": "This fabric, feels so nice.",
+      "serbian": "Ovaj materijal, tako je prijatan.",
+      "transliteration": "Ovaj materijal, tako je prijatan.",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T16:05:40.054154"
+    },
+    {
+      "english": "Could I see, that one again?",
+      "serbian": "Mogu li da vidim, onaj ponovo?",
+      "transliteration": "Mogu li da vidim, onaj ponovo?",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T16:05:40.054166"
+    },
+    {
+      "english": "Is this, handmade?",
+      "serbian": "Je li ovo, ručni rad?",
+      "transliteration": "Je li ovo, ručni rad?",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T16:05:40.054169"
+    },
+    {
+      "english": "I love the pattern, very much.",
+      "serbian": "Mnogo mi se sviđa, šara.",
+      "transliteration": "Mnogo mi se sviđa, šara.",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T16:05:40.054171"
+    },
+    {
+      "english": "Do you have, other colors?",
+      "serbian": "Imate li, druge boje?",
+      "transliteration": "Imate li, druge boje?",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T16:05:40.054172"
     }
   ],
-  "last_updated": "2026-07-31T14:00:18.390170"
+  "last_updated": "2026-07-31T16:05:40.054174"
 }
