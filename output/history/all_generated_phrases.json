@@ -7104,7 +7104,42 @@
       "transliteration": "Jednostavna mayitsa, uvek prolazi.",
       "category": "Clothes",
       "generated_at": "2026-08-02T02:30:35.642005"
+    },
+    {
+      "english": "Think about it, then speak.",
+      "serbian": "Razmisli, pa reci.",
+      "transliteration": "Razmisli, pa reci.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T13:15:51.970119"
+    },
+    {
+      "english": "Look at the picture, imagine.",
+      "serbian": "Pogledaj sliku, zamisli.",
+      "transliteration": "Pogledaj sliku, zamisli.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T13:15:51.970130"
+    },
+    {
+      "english": "Try to guess, no fear.",
+      "serbian": "Probaj da pogodiš, bez straha.",
+      "transliteration": "Probaj da pogodiš, bez straha.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T13:15:51.970132"
+    },
+    {
+      "english": "Listen, feel the rhythm.",
+      "serbian": "Slušaj, oseti ritam.",
+      "transliteration": "Slušaj, oseti ritam.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T13:15:51.970133"
+    },
+    {
+      "english": "Say it louder, please.",
+      "serbian": "Reci glasnije, molim.",
+      "transliteration": "Reci glasnije, molim.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T13:15:51.970135"
     }
   ],
-  "last_updated": "2026-08-02T02:30:35.642008"
+  "last_updated": "2026-08-02T13:15:51.970137"
 }
