@@ -7384,7 +7384,42 @@
       "transliteration": "Vaše srpsko putovanje, počinje sada.",
       "category": "Greetings",
       "generated_at": "2026-08-03T18:43:16.304132"
+    },
+    {
+      "english": "This local market, smells amazing.",
+      "serbian": "Ova pijaca, divno miriše.",
+      "transliteration": "Ova pijaca, divno mirishe.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T21:06:20.297321"
+    },
+    {
+      "english": "Can I try, this fruit?",
+      "serbian": "Mogu li probati, ovo voće?",
+      "transliteration": "Mogu li probati, ovo voće?",
+      "category": "Travel",
+      "generated_at": "2026-08-03T21:06:20.297332"
+    },
+    {
+      "english": "The journey, was so smooth.",
+      "serbian": "Putovanje, je bilo tako glatko.",
+      "transliteration": "Putovanje, je bilo tako glatko.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T21:06:20.297335"
+    },
+    {
+      "english": "This church, is very old.",
+      "serbian": "Ova crkva, je jako stara.",
+      "transliteration": "Ova crkva, je jako stara.",
+      "category": "Travel",
+      "generated_at": "2026-08-03T21:06:20.297336"
+    },
+    {
+      "english": "May I take, a photograph?",
+      "serbian": "Mogu li da slikam, fotografiju?",
+      "transliteration": "Mogu li da slikam, fotografiju?",
+      "category": "Travel",
+      "generated_at": "2026-08-03T21:06:20.297337"
     }
   ],
-  "last_updated": "2026-08-03T18:43:16.304136"
+  "last_updated": "2026-08-03T21:06:20.297339"
 }
