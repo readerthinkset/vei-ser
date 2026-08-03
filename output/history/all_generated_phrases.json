@@ -7349,7 +7349,42 @@
       "transliteration": "Otkljuchayte unutrashvili glas, hrabro.",
       "category": "Confidence",
       "generated_at": "2026-08-03T14:34:16.510285"
+    },
+    {
+      "english": "A friendly hello, Serbian style.",
+      "serbian": "Prijateljski pozdrav, u srpskom stilu.",
+      "transliteration": "Prijateljski pozdrav, u srpskom stilu.",
+      "category": "Greetings",
+      "generated_at": "2026-08-03T18:43:16.304118"
+    },
+    {
+      "english": "Ready for some Serbian words?",
+      "serbian": "Spremni za srpske reči?",
+      "transliteration": "Spremni za srpske reči?",
+      "category": "Greetings",
+      "generated_at": "2026-08-03T18:43:16.304127"
+    },
+    {
+      "english": "Let's learn, together, today.",
+      "serbian": "Učimo, zajedno, danas.",
+      "transliteration": "Učimo, zajedno, danas.",
+      "category": "Greetings",
+      "generated_at": "2026-08-03T18:43:16.304129"
+    },
+    {
+      "english": "A warm greeting, from Serbia.",
+      "serbian": "Srdačan pozdrav, iz Srbije.",
+      "transliteration": "Srdačan pozdrav, iz Srbije.",
+      "category": "Greetings",
+      "generated_at": "2026-08-03T18:43:16.304131"
+    },
+    {
+      "english": "Your Serbian journey, starts now.",
+      "serbian": "Vaše srpsko putovanje, počinje sada.",
+      "transliteration": "Vaše srpsko putovanje, počinje sada.",
+      "category": "Greetings",
+      "generated_at": "2026-08-03T18:43:16.304132"
     }
   ],
-  "last_updated": "2026-08-03T14:34:16.510287"
+  "last_updated": "2026-08-03T18:43:16.304136"
 }
