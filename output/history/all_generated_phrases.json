@@ -7559,7 +7559,42 @@
       "transliteration": "Unutrašnje svetlo, vodi te.",
       "category": "Strength",
       "generated_at": "2026-08-04T18:23:15.060449"
+    },
+    {
+      "english": "This fleeting minute, fades.",
+      "serbian": "Ovaj prolazni minut, nestaje.",
+      "transliteration": "Ovaj prolazni minut, nestaje.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:14:40.574295"
+    },
+    {
+      "english": "A heartbeat later, different.",
+      "serbian": "Otkucaj srca kasnije, drugačije.",
+      "transliteration": "Otkucaj srca kasnije, drugačije.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:14:40.574306"
+    },
+    {
+      "english": "When the clock strikes, decide.",
+      "serbian": "Kad sat otkuca, odluči.",
+      "transliteration": "Kad sat otkuca, odluči.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:14:40.574308"
+    },
+    {
+      "english": "The moon waxes, then wanes.",
+      "serbian": "Mesec raste, pa opada.",
+      "transliteration": "Mesec raste, pa opada.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:14:40.574310"
+    },
+    {
+      "english": "Seasons turn, so will you.",
+      "serbian": "Godišnja doba se menjaju, pa i ti.",
+      "transliteration": "Godišnja doba se menjaju, pa i ti.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:14:40.574311"
     }
   ],
-  "last_updated": "2026-08-04T18:23:15.060450"
+  "last_updated": "2026-08-04T21:14:40.574313"
 }
